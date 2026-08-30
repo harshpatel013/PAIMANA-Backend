@@ -1,0 +1,33 @@
+Feature,FeatureType,TemporalRole,MissingCount,MissingPercent,LeakageStatus,TargetCorrelation,AbsoluteCorrelation
+OriginalCost,Numerical,Current/project feature,0,0.0,SAFE,-0.06906548336708003,0.06906548336708003
+RevisedCost,Numerical,Current/project feature,0,0.0,SAFE,-0.06107988151270252,0.06107988151270252
+Expenditure,Numerical,Current/project feature,0,0.0,SAFE,-0.0505193565573444,0.0505193565573444
+CurrentExpenditureRatio,Numerical,Current/project feature,0,0.0,SAFE,-0.009519339220109368,0.009519339220109368
+RobustCurrentExpenditurePct,Numerical,Current/project feature,0,0.0,SAFE,-0.006845345498516887,0.006845345498516887
+Physical Progress,Numerical,Current/project feature,0,0.0,SAFE,0.27445004462441436,0.27445004462441436
+CurrentScheduleDelayDays,Numerical,Derived/current feature,0,0.0,SAFE,-0.022971133494501222,0.022971133494501222
+CurrentScheduleStatus,Categorical,Derived/current feature,0,0.0,SAFE,,
+Prev_Expenditure,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.06341994975419206,0.06341994975419206
+Prev_OriginalCost,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.09569653971860526,0.09569653971860526
+Prev_RevisedCost,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.07998428458196215,0.07998428458196215
+Prev_ExpenditureRatio,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.040555126745027065,0.040555126745027065
+Prev_PhysicalProgress,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,0.2945405270020933,0.2945405270020933
+Prev_ProgressRemaining,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.2945405270020934,0.2945405270020934
+ProgressVelocity,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.06252575186192667,0.06252575186192667
+ProjectAgeDays,Numerical,Current schedule feature,20,0.54,SAFE,-0.012177566825639195,0.012177566825639195
+ElapsedDays,Numerical,Current schedule feature,0,0.0,SAFE,-0.02334563157534804,0.02334563157534804
+PlannedDurationDays,Numerical,Current schedule feature,0,0.0,SAFE,-0.19123847388518955,0.19123847388518955
+RemainingPlannedDays,Numerical,Current schedule feature,0,0.0,SAFE,0.022971133494501222,0.022971133494501222
+ScheduleElapsedRatio,Numerical,Current schedule feature,0,0.0,SAFE,-0.023125658472910416,0.023125658472910416
+ProgressScheduleGap,Numerical,Current schedule feature,0,0.0,SAFE,0.15683039931542736,0.15683039931542736
+Prev_RobustExpenditurePct,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.010638676407367388,0.010638676407367388
+ExpenditureChange,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,-0.019965043940533823,0.019965043940533823
+CostGrowth,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,0.021368472272154215,0.021368472272154215
+ScheduleDelayChangeDays,Numerical,Previous-month / temporal feature,1954,52.91,SAFE,0.018199706843965602,0.018199706843965602
+HasPreviousRevisedCost,Numerical,Current/project metadata feature,0,0.0,SAFE,-0.0668534200097727,0.0668534200097727
+HasPreviousRevisedDoc,Numerical,Current/project metadata feature,0,0.0,SAFE,-0.01339636611228806,0.01339636611228806
+HasPreviousTargetDoc,Numerical,Current/project feature,0,0.0,LEAKAGE_RISK,-0.0668534200097727,0.0668534200097727
+InvalidPlannedDuration,Numerical,Current/project metadata feature,0,0.0,SAFE,,
+DateInconsistencyFlag,Numerical,Current/project metadata feature,0,0.0,SAFE,-0.01940255275016443,0.01940255275016443
+State,Categorical,Current/project metadata feature,0,0.0,SAFE,,
+Agency,Categorical,Current/project metadata feature,0,0.0,SAFE,,

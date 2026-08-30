@@ -1,0 +1,32 @@
+Feature,FeatureType,TemporalRole,MissingCount,MissingPercent,LeakageStatus,Description
+State,Categorical,Current categorical feature,0,0.0,SAFE,State associated with the project.
+OriginalCost,Numerical,Current/project feature,0,0.0,SAFE,Original approved project cost.
+RevisedCost,Numerical,Current/project feature,0,0.0,SAFE,Current revised project cost.
+Expenditure,Numerical,Current/project feature,0,0.0,SAFE,Cumulative expenditure reported for the current snapshot.
+Physical Progress,Numerical,Current/project feature,0,0.0,SAFE,Reported physical completion percentage of the project.
+Agency,Categorical,Current categorical feature,0,0.0,SAFE,Agency/organization responsible for the project.
+DateInconsistency,Numerical,Current/project feature,0,0.0,SAFE,Flag indicating detected inconsistency in project dates.
+ProjectAgeDays,Numerical,Current schedule feature,0,0.0,SAFE,Number of days from project start date to the current report month.
+ApprovalToStartDays,Numerical,Current schedule feature,20,0.54,SAFE,Number of days between project approval and project start.
+CurrentExpenditureRatio,Numerical,Current/project feature,0,0.0,SAFE,Current expenditure as a percentage of revised cost.
+RobustCurrentExpenditurePct,Numerical,Current/project feature,0,0.0,SAFE,Current expenditure percentage constrained to a robust 0-100% range.
+RobustCurrentGap,Numerical,Current/project feature,0,0.0,SAFE,Physical progress minus robust current expenditure percentage.
+HasRevisedCost,Numerical,Current/project feature,0,0.0,SAFE,Indicator that revised cost differs from original cost.
+HasRevisedDoc,Numerical,Current/project feature,0,0.0,SAFE,Indicator that a revised-document entry is available.
+ProgressVelocity,Numerical,Current execution feature,1954,52.91,SAFE,Change in physical progress between available monthly snapshots.
+ProgressScheduleGap,Numerical,Current execution feature,868,23.5,SAFE,Difference between physical progress and schedule-elapsed expectation.
+ExpenditureProgressGap,Numerical,Current execution feature,0,0.0,SAFE,Difference between expenditure percentage and physical progress.
+CostGrowth,Numerical,Current execution feature,1954,52.91,SAFE,Change in expenditure/cost-related progression relative to the previous available snapshot.
+ScheduleElapsedRatio,Numerical,Current schedule feature,868,23.5,SAFE,Elapsed project schedule relative to planned project duration.
+RemainingPlannedDays,Numerical,Current schedule feature,20,0.54,SAFE,Remaining planned project duration based on the current schedule.
+ElapsedDays,Numerical,Current schedule feature,0,0.0,SAFE,Elapsed project duration at the current report snapshot.
+PlannedDurationDays,Numerical,Current schedule feature,20,0.54,SAFE,Planned duration of the project.
+ProgressBehindSchedule10,Numerical,Current execution feature,0,0.0,SAFE,Indicator that progress is at least 10 percentage points behind schedule.
+ProgressBehindSchedule20,Numerical,Current execution feature,0,0.0,SAFE,Indicator that progress is at least 20 percentage points behind schedule.
+ProgressBehindSchedule30,Numerical,Current execution feature,0,0.0,SAFE,Indicator that progress is at least 30 percentage points behind schedule.
+NegativeProgressVelocity,Numerical,Current execution feature,0,0.0,SAFE,Indicator that physical progress decreased relative to the previous available snapshot.
+NoProgress,Numerical,Current execution feature,0,0.0,SAFE,Indicator that no progress change was observed between available snapshots.
+LateStageLowProgress,Numerical,Current execution feature,0,0.0,SAFE,Indicator representing projects with advanced elapsed schedule but comparatively low physical progress.
+ExpenditureAhead10,Numerical,Current execution feature,0,0.0,SAFE,Indicator that expenditure is more than 10 percentage points ahead of physical progress.
+ExpenditureAhead20,Numerical,Current execution feature,0,0.0,SAFE,Indicator that expenditure is more than 20 percentage points ahead of physical progress.
+ExpenditureAhead30,Numerical,Current execution feature,0,0.0,SAFE,Indicator that expenditure is more than 30 percentage points ahead of physical progress.

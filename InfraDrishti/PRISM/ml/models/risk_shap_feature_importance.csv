@@ -1,0 +1,300 @@
+feature,mean_abs_shap
+categorical__Agency_National Highways Authority of India [NHAI],0.49359325
+numeric__CurrentExpenditureRatio,0.27278906
+numeric__ProgressVelocity,0.25197327
+numeric__Physical Progress,0.22565284
+numeric__ExpenditureProgressGap,0.18845546
+numeric__Expenditure,0.14666575
+numeric__RobustCurrentGap,0.1452089
+numeric__NoProgress,0.14219658
+numeric__ProjectAgeDays,0.14107513
+numeric__RevisedCost,0.13013473
+numeric__HasRevisedDoc,0.12225635
+numeric__RemainingPlannedDays,0.114373825
+numeric__OriginalCost,0.11204917
+numeric__ProgressScheduleGap,0.09863009
+numeric__ApprovalToStartDays,0.09023406
+numeric__RobustCurrentExpenditurePct,0.06491802
+categorical__Agency_NHIDCL,0.055136617
+numeric__HasRevisedCost,0.053091038
+categorical__State_Jharkhand,0.038443957
+categorical__Agency_North Western Railway [NWR],0.03462274
+numeric__ScheduleElapsedRatio,0.03204562
+categorical__State_Uttar Pradesh,0.02628351
+categorical__Agency_NHAI,0.02520239
+categorical__State_Bihar,0.022330891
+numeric__ElapsedDays,0.021529766
+numeric__PlannedDurationDays,0.021212941
+categorical__Agency_MoRTH,0.019136969
+categorical__Agency_Ministry of Coal,0.018338619
+numeric__LateStageLowProgress,0.018052308
+categorical__State_Maharashtra,0.01713581
+categorical__State_Gujarat,0.01631201
+categorical__State_Odisha,0.015824465
+categorical__Agency_Steel Authority of India Limited [SAIL],0.0154305585
+"categorical__State_Jammu andKashmir",0.015054461
+categorical__Agency_MinistryofPetroleumNaturalGas,0.0134204775
+categorical__Agency_National Thermal Power Corporation [NTPC],0.012911853
+categorical__State_Madhya Pradesh,0.009917807
+categorical__State_Uttarakhand,0.009432775
+categorical__State_Haryana,0.008628832
+categorical__State_Andhra Pradesh,0.008527437
+categorical__State_Tamil Nadu,0.008487897
+numeric__ProgressBehindSchedule20,0.008349494
+categorical__Agency_Airport Authority of India [AAI],0.007845734
+categorical__State_West Bengal,0.0075154575
+categorical__State_Telangana,0.0058837906
+numeric__ProgressBehindSchedule30,0.0053105503
+categorical__Agency_East Coast Railway [ECoR] - II,0.0052950415
+numeric__NegativeProgressVelocity,0.0051479517
+categorical__State_Nagaland,0.005043806
+numeric__ProgressBehindSchedule10,0.0049061854
+categorical__State_Meghalaya,0.0048989295
+categorical__State_Rajasthan,0.004748996
+categorical__State_Assam,0.0043970947
+categorical__State_Delhi,0.004328647
+categorical__State_Chhattisgarh,0.0041607902
+categorical__Agency_Ministry of Petroleum & Natural Gas,0.003932079
+categorical__Agency_Western Coalfields Limited [WCL],0.0037421125
+categorical__State_Arunachal Pradesh,0.0034414446
+categorical__Agency_Power Grid Corporation of India Limited [POWERGRID],0.0029603518
+categorical__State_Karnataka,0.0028858625
+"categorical__Agency_Medical Education, Ministry of Health and Family Welfare",0.002148803
+categorical__State_Himachal Pradesh,0.0020778184
+categorical__Agency_National Mission for Clean Ganga,0.00203103
+categorical__State_Mizoram,0.001701304
+numeric__DateInconsistency,0.0014482458
+categorical__Agency_East Central Railway [ECR] - I,0.0012995683
+categorical__State_Punjab,0.0009446685
+categorical__State_Manipur,0.00076814217
+"categorical__State_Multi-States(Bihar, Jharkhand)",0.0006595023
+categorical__Agency_Eastern Coal Fields Limited [ECL],0.0006447864
+categorical__State_Sikkim,0.0004339328
+categorical__Agency_Ministry of Housing & Urban Affairs,0.00031753824
+"categorical__State_Multi-States(Andhra Pradesh,Chhattisgarh,Odisha)",0.0
+"categorical__State_Multi-States(Andhra Pradesh,Karnataka)",0.0
+"categorical__State_Multi-States(Andhra Pradesh,Maharashtra,Telangana)",0.0
+"categorical__State_Multi-States(Andhra Pradesh,Odisha)",0.0
+"categorical__State_Multi-States(Andhra Pradesh,Tamil Nadu)",0.0
+"categorical__State_Multi-States(Andhra Pradesh,Telangana)",0.0
+"categorical__State_Multi-States(ArunachalPradesh, Assam)",0.0
+"categorical__State_Multi-States(ArunachalPradesh, Assam,Manipur,Meghalaya,Mizoram,Nagaland, Sikkim,Tripura, WestBengal)",0.0
+"categorical__State_Multi-States(Assam,Meghalaya)",0.0
+"categorical__State_Multi-States(Assam,Nagaland)",0.0
+"categorical__State_Multi-States(Assam, Bihar,Jharkhand,Odisha, WestBengal)",0.0
+"categorical__State_Multi-States(Assam, Bihar,West Bengal)",0.0
+"categorical__State_Multi-States(Assam, Manipur,Meghalaya,Mizoram,Nagaland, Tripura)",0.0
+"categorical__State_Multi-States(Bihar, Delhi,Jharkhand, UttarPradesh, WestBengal)",0.0
+"categorical__State_Multi-States(Bihar, MadhyaPradesh,Rajasthan, UttarPradesh)",0.0
+"categorical__State_Multi-States(Bihar, Odisha,West Bengal)",0.0
+"categorical__State_Multi-States(Bihar, UttarPradesh)",0.0
+"categorical__State_Multi-States(Bihar, WestBengal)",0.0
+"categorical__State_Multi-States(Chhattisgarh,Maharashtra)",0.0
+"categorical__State_Multi-States(Chhattisgarh,Odisha)",0.0
+"categorical__State_Multi-States(Dadra & NagarHaveli and Daman& Diu, Gujarat,Maharashtra)",0.0
+"categorical__State_Multi-States(Gujarat,Maharashtra)",0.0
+"categorical__State_Multi-States(Gujarat,Rajasthan)",0.0
+"categorical__State_Multi-States(Gujarat, Haryana,Maharashtra,Rajasthan, UttarPradesh)",0.0
+"categorical__State_Multi-States(Gujarat, Haryana,Punjab,Rajasthan)",0.0
+"categorical__State_Multi-States(Gujarat, Haryana,Rajasthan)",0.0
+"categorical__State_Multi-States(Gujarat, MadhyaPradesh)",0.0
+"categorical__State_Multi-States(Gujarat, MadhyaPradesh, UttarPradesh)",0.0
+"categorical__State_Multi-States(Haryana,Himachal Pradesh)",0.0
+"categorical__State_Multi-States(Haryana,Rajasthan)",0.0
+"categorical__State_Multi-States(Haryana, Punjab)",0.0
+"categorical__State_Multi-States(Haryana, Punjab,Rajasthan)",0.0
+"categorical__State_Multi-States(Haryana, UttarPradesh)",0.0
+"categorical__State_Multi-States(HimachalPradesh,Uttarakhand)",0.0
+"categorical__State_Multi-States(HimachalPradesh, Punjab)",0.0
+"categorical__State_Multi-States(Jharkhand,Odisha)",0.0
+"categorical__State_Multi-States(Jharkhand,Odisha, WestBengal)",0.0
+"categorical__State_Multi-States(Jharkhand, UttarPradesh)",0.0
+"categorical__State_Multi-States(Jharkhand, WestBengal)",0.0
+"categorical__State_Multi-States(Karnataka,Kerala)",0.0
+"categorical__State_Multi-States(Karnataka,Kerala, TamilNadu)",0.0
+"categorical__State_Multi-States(Karnataka,Maharashtra)",0.0
+"categorical__State_Multi-States(Karnataka,Maharashtra,Telangana, UttarPradesh)",0.0
+"categorical__State_Multi-States(Karnataka,Telangana)",0.0
+"categorical__State_Multi-States(Karnataka, TamilNadu)",0.0
+"categorical__State_Multi-States(Kerala,Puducherry)",0.0
+"categorical__State_Multi-States(Kerala, TamilNadu)",0.0
+"categorical__State_Multi-States(Madhya Pradesh,Maharashtra)",0.0
+"categorical__State_Multi-States(Madhya Pradesh,Rajasthan)",0.0
+"categorical__State_Multi-States(Madhya Pradesh,Rajasthan, UttarPradesh)",0.0
+"categorical__State_Multi-States(Madhya Pradesh,Uttar Pradesh)",0.0
+"categorical__State_Multi-States(Maharashtra,Telangana)",0.0
+"categorical__State_Multi-States(Odisha, WestBengal)",0.0
+"categorical__State_Multi-States(Puducherry, TamilNadu)",0.0
+"categorical__State_Multi-States(Punjab,Rajasthan)",0.0
+"categorical__State_Multi-States(Rajasthan, UttarPradesh)",0.0
+"categorical__State_Multi-States(Sikkim, WestBengal)",0.0
+"categorical__State_Multi-States (Delhi,Gujarat, MadhyaPradesh,Maharashtra,Rajasthan)",0.0
+"categorical__State_Multi-States (Delhi,Haryana)",0.0
+"categorical__State_Multi-States (Delhi,Rajasthan)",0.0
+"categorical__State_Multi-States (Delhi,Uttar Pradesh)",0.0
+"categorical__State_Multi-States (Goa,Karnataka)",0.0
+"categorical__State_Multi-States (UttarPradesh,Uttarakhand)",0.0
+"categorical__State_Multi-States (UttarPradesh, WestBengal)",0.0
+categorical__State_Offshore,0.0
+categorical__State_PAN India,0.0
+categorical__State_Puducherry,0.0
+categorical__State_Tripura,0.0
+categorical__Agency_Adani Airport Holdings Limited,0.0
+categorical__Agency_Adani Transmission Limited,0.0
+categorical__Agency_BCCL,0.0
+categorical__Agency_BSNL,0.0
+categorical__Agency_Banaras Hindu University,0.0
+categorical__Agency_Bengaluru Metro Rail,0.0
+categorical__Agency_Bharat Coking Coal Limited [BCCL],0.0
+categorical__Agency_Bharat Petroleum Corporation Limited [BPCL],0.0
+categorical__Agency_CAO/C/II/NR,0.0
+categorical__Agency_CAO/C/NCR,0.0
+categorical__Agency_CAO/C/NR,0.0
+categorical__Agency_CAO/C/SECR,0.0
+categorical__Agency_CAO/C/SER,0.0
+categorical__Agency_CCL - CIL,0.0
+categorical__Agency_CSPCC Projects,0.0
+categorical__Agency_Central Railway,0.0
+categorical__Agency_Central Railway [CR] - II,0.0
+categorical__Agency_Central Railways,0.0
+categorical__Agency_Central Tribal University of Andhra Pradesh,0.0
+categorical__Agency_South Eastern Central Railway,0.0
+"categorical__Agency_Central University, Himachal Pradesh",0.0
+categorical__Agency_CentralRailway,0.0
+categorical__Agency_Chennai Metro Rail Limited [CMRL],0.0
+categorical__Agency_Chennai Petroleum Corporation Limited [CPCL],0.0
+categorical__Agency_Construction NER,0.0
+categorical__Agency_DFCCIL,0.0
+categorical__Agency_Damodar Valley Corporation,0.0
+categorical__Agency_Deendayal Port Trust,0.0
+categorical__Agency_Deendayal Port Trust [DPT],0.0
+categorical__Agency_Delhi Metro Rail Corporation Limited [DMRC],0.0
+categorical__Agency_Delhi University,0.0
+categorical__Agency_Department of Sports & Youth Affairs,0.0
+categorical__Agency_Department of Telecommunications,0.0
+categorical__Agency_Department of Telecommunications [DoT],0.0
+"categorical__Agency_Department of Water Resources, River Development & GR",0.0
+"categorical__Agency_Department of Water Resources, River Development,",0.0
+categorical__Agency_Department of Water Resources-MH,0.0
+categorical__Agency_Department of Water Resources-PB,0.0
+categorical__Agency_Department of water resources-MH - II,0.0
+categorical__Agency_ECL - CIL,0.0
+categorical__Agency_ministry of housing and urban affairs,0.0
+numeric__CostGrowth,0.0
+categorical__Agency_Singareni Collieries Company Limited [SCCL],0.0
+categorical__Agency_Eastern Railway [ER] - I,0.0
+categorical__Agency_Employee's State Insurance Company [ESIC],0.0
+categorical__Agency_GM/C/ NFR,0.0
+categorical__Agency_Gujarat Metro Rail Corporation Limited [GMRCL],0.0
+categorical__Agency_Gurugram Metro Rail Limited [GMRL],0.0
+categorical__Agency_Hindustan Copper Limited [HCL],0.0
+categorical__Agency_Hindustan Petroleum Corporation Limited,0.0
+categorical__Agency_Hindustan Petroleum Corporation Limited [HPCL],0.0
+categorical__Agency_INDIAN INSTITUTE OF TECHNOLOGY PALAKKAD,0.0
+categorical__Agency_IOCL,0.0
+"categorical__Agency_Indian Institute of Management, Jammu",0.0
+"categorical__Agency_Indian Institute of Management, Sirmaur",0.0
+"categorical__Agency_Indian Institute of Technology, Bhilai",0.0
+"categorical__Agency_Indian Institute of Technology, Bhubaneshwar",0.0
+"categorical__Agency_Indian Institute of Technology, Hyderabad",0.0
+"categorical__Agency_Indian Institute of Technology, Indore",0.0
+"categorical__Agency_Indian Institute of Technology, Mandi",0.0
+categorical__Agency_Indian Oil Corporation Limited [IOCL],0.0
+categorical__Agency_Indian Port Rail & Ropeway Corporation Ltd. [IPRCL],0.0
+categorical__Agency_Indian Railway,0.0
+categorical__Agency_Indian Railway Construction International Limited [IRCON],0.0
+"categorical__Agency_Indian intitue of Management, Amritsar",0.0
+categorical__Agency_Irrigation & Water Resources-UP,0.0
+categorical__Agency_Irrigation and CAD-TG,0.0
+categorical__Agency_Irrigation-UK,0.0
+categorical__Agency_Jaipur Metro Rail Corporation,0.0
+categorical__Agency_Karnataka Rail Infrastructure Development Company Limited [K-RIDE],0.0
+categorical__Agency_M/S SRC company Infra Private Limited,0.0
+categorical__Agency_MCL - CIL,0.0
+categorical__Agency_MIS MoCoal Integration Logins,0.0
+categorical__Agency_MRIDC,0.0
+categorical__Agency_Madhya Pradesh Metro Rail Co Limited [MPMRCL],0.0
+categorical__Agency_Mahanadi Coalfields Limited [MCL],0.0
+categorical__Agency_Maharashtra Metro Rail Corporation Limited [MMRCL],0.0
+categorical__Agency_Mangalore Refinary and Petrochemicals Limited,0.0
+categorical__Agency_South Central Railway [SCR] - II,0.0
+"categorical__Agency_Metro Railway, Kolkata",0.0
+categorical__Agency_Northeast Frontier Railway [NFR],0.0
+categorical__Agency_Northen Railway [NR],0.0
+categorical__Agency_Northern Coalfields Limited [NCL],0.0
+categorical__Agency_Ministry of Petroleum and Natural Gas,0.0
+categorical__Agency_Ministry of Railways,0.0
+categorical__Agency_Northern Railways,0.0
+categorical__Agency_Oil and Natural Gas Corporation Limited [ONGC],0.0
+categorical__Agency_Mumbai Metro Rail Corporation Limited [MMRC],0.0
+categorical__Agency_Mumbai Rail Vikas Corporation Ltd.[MRVC],0.0
+categorical__Agency_NER,0.0
+categorical__Agency_PCE/NCR,0.0
+categorical__Agency_Water Resources-AP,0.0
+categorical__Agency_Water Resources-CT,0.0
+categorical__Agency_Water Resources-MP,0.0
+categorical__Agency_Water Resources-OR,0.0
+categorical__Agency_West Central Railway [WCR] - II,0.0
+categorical__Agency_Western Railway,0.0
+categorical__Agency_Western Railway WR - II,0.0
+numeric__ExpenditureAhead10,0.0
+numeric__ExpenditureAhead20,0.0
+numeric__ExpenditureAhead30,0.0
+"categorical__State_Andaman &Nicobar",0.0
+categorical__Agency_Western Railway [WR] - II,0.0
+categorical__Agency_South East Central Railway [SECR] - II,0.0
+categorical__Agency_NICDC,0.0
+categorical__Agency_NIT Mizoram,0.0
+categorical__Agency_NIT Patna,0.0
+categorical__Agency_NIT Sikkim,0.0
+categorical__Agency_NLC India Limited [NLCIL],0.0
+categorical__Agency_NRL,0.0
+"categorical__Agency_Narmada and Water Resources, Water Supply and Kalpsar Department-GJ",0.0
+categorical__Agency_National Aluminium Company Limited [NALCO],0.0
+categorical__Agency_National Buildings Construction Corporation [NBCC],0.0
+categorical__Agency_National Communication Academy - Finance [Erstwhile NICF],0.0
+categorical__Agency_National High Speed Rail Corporation [NHSRC],0.0
+categorical__Agency_National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],0.0
+categorical__Agency_National Hydroelectric Power Corporation Limited [NHPC],0.0
+categorical__Agency_National Industrial Corridor Development Corporation,0.0
+"categorical__Agency_National Institute of Technology, Arunachal Pradesh",0.0
+categorical__Agency_Tezpur University,0.0
+categorical__Agency_Uttar Pradesh metro rail corporation [UPMRC],0.0
+categorical__Agency_WPO/Patna,0.0
+categorical__Agency_RVNL - II,0.0
+categorical__Agency_Rail Land Development Authority,0.0
+categorical__Agency_Central University of Punjab,0.0
+"categorical__State_Dadra & NagarHaveli and Daman& Diu",0.0
+categorical__Agency_Railway,0.0
+categorical__Agency_South East Central Railway,0.0
+categorical__Agency_South Eastern Coalfields Limited [SECL],0.0
+categorical__Agency_South Eastern Railway - JH,0.0
+categorical__Agency_South Eastern Railway [SER] - I,0.0
+categorical__Agency_South Western Railway [SWR] - II,0.0
+categorical__Agency_Southern Railway [SR] - I,0.0
+categorical__Agency_Reliance Industries Ltd,0.0
+categorical__Agency_Sterlite Power,0.0
+categorical__Agency_THDC India Limited,0.0
+categorical__Agency_PCE/WR,0.0
+categorical__Agency_PMSSY AND Institute of NATIONAL Importance,0.0
+categorical__Agency_Patna Metro Rail Corporation Ltd. [PMRCL],0.0
+categorical__Agency_SECL - CIL,0.0
+categorical__Agency_RCIL,0.0
+categorical__Agency_RVNL,0.0
+categorical__Agency_RVNL - I,0.0
+categorical__State_Goa,0.0
+categorical__Agency_SECR,0.0
+categorical__Agency_Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,0.0
+categorical__Agency_Sikkim University,0.0
+categorical__Agency_Water Resources Department-MN,0.0
+categorical__State_Ladakh,0.0
+categorical__State_Kerala,0.0
+"categorical__Agency_National Institute of Technology, Meghalaya",0.0
+"categorical__Agency_National Institute of Technology, Puducherry",0.0
+categorical__Agency_National Mineral Development Corporation Limited [NMDC],0.0
+"categorical__State_Multi-States(Andhra Pradesh,Bihar,Chhattisgarh,Jharkhand,Madhya Pradesh,Maharashtra,Odisha,Telangana, UttarPradesh, WestBengal)",0.0
+"categorical__State_Multi-States(Andhra Pradesh,Chhattisgarh,Jharkhand,Maharashtra,Odisha)",0.0
+categorical__Agency_New Mangalore Port Authority,0.0
+categorical__Agency_North Central Railway,0.0
+categorical__Agency_North Eastern Electric Power Corporation Limited,0.0
+categorical__Agency_North Eastern Railway [NER],0.0

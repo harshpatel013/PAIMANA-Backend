@@ -1,0 +1,1001 @@
+ProjectCode,ProjectName,ReportMonth,ActualOutcome,PredictedRisk,Feature,SHAPValue,Impact,Rank
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__PlannedDurationDays,-0.810539,Decreases Risk,1
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__RobustCurrentExpenditurePct,0.359051,Increases Risk,2
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__ElapsedDays,-0.324336,Decreases Risk,3
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__CurrentExpenditureRatio,0.291408,Increases Risk,4
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__ProjectAgeDays,0.188803,Increases Risk,5
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__missingindicator_Prev_Expenditure,-0.178082,Decreases Risk,6
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,categorical__Agency_National Highways Authority of India [NHAI],-0.162633,Decreases Risk,7
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__Prev_RobustGap,-0.15944,Decreases Risk,8
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,categorical__State_Telangana,-0.108737,Decreases Risk,9
+400103,Indiramma Flood Flow Canal Project,2026-04-01,0,0.1115,numeric__RevisedCost,0.105921,Increases Risk,10
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__PlannedDurationDays,-1.331378,Decreases Risk,1
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,categorical__Agency_National Highways Authority of India [NHAI],-0.447921,Decreases Risk,2
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__ElapsedDays,-0.402069,Decreases Risk,3
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__Prev_RobustGap,0.315869,Increases Risk,4
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__RobustCurrentExpenditurePct,0.256907,Increases Risk,5
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__CurrentExpenditureRatio,0.223585,Increases Risk,6
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__Prev_ExpenditureRatio,-0.210575,Decreases Risk,7
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__missingindicator_Prev_Expenditure,0.161861,Increases Risk,8
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__ProjectAgeDays,0.14953,Increases Risk,9
+400103,Indiramma Flood Flow Canal Project,2026-05-01,0,0.0697,numeric__RemainingPlannedDays,0.111145,Increases Risk,10
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__HasPreviousRevisedDoc,-0.343092,Decreases Risk,1
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__CurrentExpenditureRatio,0.213848,Increases Risk,2
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__missingindicator_Prev_Expenditure,-0.182593,Decreases Risk,3
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__RobustCurrentExpenditurePct,0.164218,Increases Risk,4
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,categorical__Agency_National Highways Authority of India [NHAI],-0.15999,Decreases Risk,5
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__Prev_RobustGap,-0.134726,Decreases Risk,6
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__Physical Progress,0.131776,Increases Risk,7
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__RobustCurrentGap,-0.096702,Decreases Risk,8
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__Expenditure,0.077703,Increases Risk,9
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore MiningComplex of NMDC Limited at Ballari Dt, Karnataka.",2026-04-01,0,0.1397,numeric__RemainingPlannedDays,-0.065203,Decreases Risk,10
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,categorical__Agency_National Highways Authority of India [NHAI],-0.393222,Decreases Risk,1
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__HasPreviousRevisedDoc,-0.320981,Decreases Risk,2
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__CurrentExpenditureRatio,0.208244,Increases Risk,3
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__Physical Progress,0.191628,Increases Risk,4
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__missingindicator_Prev_Expenditure,0.160954,Increases Risk,5
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__RobustCurrentExpenditurePct,0.1592,Increases Risk,6
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__ProgressVelocity,-0.14408,Decreases Risk,7
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__RobustCurrentGap,-0.092078,Decreases Risk,8
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__Expenditure,0.091282,Increases Risk,9
+400121,"Construction of Screening Plant-II for Donimalai and Kumaraswamy Iron Ore Mining Complex of NMDC Limited at Ballari Dt, Karnataka.",2026-05-01,0,0.2031,numeric__Prev_RobustGap,-0.081703,Decreases Risk,10
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,categorical__State_Jharkhand,0.807062,Increases Risk,1
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__CurrentExpenditureRatio,-0.540279,Decreases Risk,2
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__RobustCurrentExpenditurePct,-0.471413,Decreases Risk,3
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__Expenditure,0.302544,Increases Risk,4
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,categorical__Agency_Ministry of Coal,0.276798,Increases Risk,5
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__OriginalCost,-0.210155,Decreases Risk,6
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,categorical__Agency_National Highways Authority of India [NHAI],-0.200612,Decreases Risk,7
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__ScheduleElapsedRatio,0.158573,Increases Risk,8
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__PlannedDurationDays,-0.144346,Decreases Risk,9
+400136,SANGHMITRA OC,2026-04-01,0,0.1455,numeric__RobustCurrentGap,-0.114906,Decreases Risk,10
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,categorical__State_Jharkhand,0.532573,Increases Risk,1
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__CurrentExpenditureRatio,-0.491241,Decreases Risk,2
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__PlannedDurationDays,-0.477309,Decreases Risk,3
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__RobustCurrentExpenditurePct,-0.458647,Decreases Risk,4
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,categorical__Agency_National Highways Authority of India [NHAI],-0.417815,Decreases Risk,5
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__Expenditure,0.37921,Increases Risk,6
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,categorical__Agency_Ministry of Coal,0.258092,Increases Risk,7
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__Prev_Expenditure,-0.221209,Decreases Risk,8
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__ProjectAgeDays,-0.214989,Decreases Risk,9
+400136,SANGHMITRA OC,2026-05-01,0,0.1023,numeric__CurrentGapVsPreviousGap,0.186022,Increases Risk,10
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,categorical__State_Jharkhand,1.068548,Increases Risk,1
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__PlannedDurationDays,-0.511394,Decreases Risk,2
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,categorical__Agency_Ministry of Coal,0.438791,Increases Risk,3
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,categorical__Agency_National Highways Authority of India [NHAI],-0.210673,Decreases Risk,4
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__RobustCurrentGap,0.174422,Increases Risk,5
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__ProgressScheduleGap,0.168129,Increases Risk,6
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__CurrentExpenditureRatio,0.156417,Increases Risk,7
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__RobustCurrentExpenditurePct,0.13095,Increases Risk,8
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__ScheduleElapsedRatio,0.115515,Increases Risk,9
+400139,KOTRE BASANTPUR PACHMO OCP,2026-04-01,1,0.5444,numeric__RevisedCost,-0.112708,Decreases Risk,10
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,categorical__State_Jharkhand,0.97675,Increases Risk,1
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__PlannedDurationDays,-0.507522,Decreases Risk,2
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__Prev_RobustGap,-0.463454,Decreases Risk,3
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,categorical__Agency_Ministry of Coal,0.432031,Increases Risk,4
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,categorical__Agency_National Highways Authority of India [NHAI],-0.428299,Decreases Risk,5
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__CurrentGapVsPreviousGap,-0.306247,Decreases Risk,6
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__Prev_ExpenditureRatio,-0.127844,Decreases Risk,7
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__ProjectAgeDays,0.109882,Increases Risk,8
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__ElapsedDays,0.102188,Increases Risk,9
+400139,KOTRE BASANTPUR PACHMO OCP,2026-05-01,0,0.192,numeric__missingindicator_Prev_Expenditure,0.086146,Increases Risk,10
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,categorical__State_Jharkhand,0.640244,Increases Risk,1
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,categorical__Agency_National Highways Authority of India [NHAI],-0.251994,Decreases Risk,2
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__CurrentExpenditureRatio,-0.244718,Decreases Risk,3
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__RemainingPlannedDays,0.233633,Increases Risk,4
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,categorical__Agency_Ministry of Coal,0.213596,Increases Risk,5
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__ElapsedDays,-0.182092,Decreases Risk,6
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__ScheduleElapsedRatio,-0.170708,Decreases Risk,7
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__Expenditure,0.139413,Increases Risk,8
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__RobustCurrentGap,0.138004,Increases Risk,9
+400160,RAJRAPPA RCE OCP,2026-04-01,1,0.2923,numeric__PlannedDurationDays,-0.129073,Decreases Risk,10
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,categorical__State_Jharkhand,0.626459,Increases Risk,1
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__Prev_ExpenditureRatio,-0.393724,Decreases Risk,2
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__PlannedDurationDays,-0.37344,Decreases Risk,3
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,categorical__Agency_National Highways Authority of India [NHAI],-0.328661,Decreases Risk,4
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__CurrentExpenditureRatio,-0.288696,Decreases Risk,5
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,categorical__Agency_Ministry of Coal,0.213144,Increases Risk,6
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__RemainingPlannedDays,0.204205,Increases Risk,7
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__Prev_RobustGap,-0.201732,Decreases Risk,8
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__Expenditure,0.129618,Increases Risk,9
+400160,RAJRAPPA RCE OCP,2026-05-01,1,0.2017,numeric__CurrentGapVsPreviousGap,0.113196,Increases Risk,10
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__RobustCurrentGap,0.26506,Increases Risk,1
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,categorical__Agency_National Highways Authority of India [NHAI],-0.2541,Decreases Risk,2
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__ScheduleElapsedRatio,-0.210789,Decreases Risk,3
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__Expenditure,0.179965,Increases Risk,4
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,categorical__State_Madhya Pradesh,-0.178529,Decreases Risk,5
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__missingindicator_Prev_Expenditure,-0.160163,Decreases Risk,6
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__CurrentExpenditureRatio,0.144281,Increases Risk,7
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__ProgressScheduleGap,-0.135685,Decreases Risk,8
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__Prev_RobustGap,-0.125781,Decreases Risk,9
+400162,BLOCK B EXPANSION  [3.5 TO 8.0,2026-04-01,0,0.1549,numeric__RemainingPlannedDays,0.118335,Increases Risk,10
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,categorical__Agency_National Highways Authority of India [NHAI],-0.456825,Decreases Risk,1
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__ScheduleElapsedRatio,-0.15594,Decreases Risk,2
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__RobustCurrentGap,0.150386,Increases Risk,3
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__missingindicator_Prev_Expenditure,0.150219,Increases Risk,4
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__ProgressScheduleGap,-0.118619,Decreases Risk,5
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__Expenditure,0.118498,Increases Risk,6
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__Prev_OriginalCost,0.10697,Increases Risk,7
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__ElapsedDays,-0.103303,Decreases Risk,8
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,numeric__CurrentExpenditureRatio,0.10184,Increases Risk,9
+400162,BLOCK B EXPANSION [3.5 TO 8.0,2026-05-01,1,0.186,categorical__State_Madhya Pradesh,-0.101425,Decreases Risk,10
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__Expenditure,0.328532,Increases Risk,1
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__RemainingPlannedDays,0.231934,Increases Risk,2
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__CurrentExpenditureRatio,0.178089,Increases Risk,3
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__Prev_RobustGap,-0.164754,Decreases Risk,4
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__missingindicator_Prev_Expenditure,-0.157979,Decreases Risk,5
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__RobustCurrentExpenditurePct,0.146058,Increases Risk,6
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__PlannedDurationDays,0.137352,Increases Risk,7
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,categorical__Agency_National Highways Authority of India [NHAI],-0.130963,Decreases Risk,8
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,numeric__ProjectAgeDays,-0.071356,Decreases Risk,9
+400168,"500 KTA PDHPP Project, Usar",2026-04-01,0,0.3468,categorical__Agency_Ministry of Petroleum & Natural Gas,0.063506,Increases Risk,10
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,categorical__Agency_National Highways Authority of India [NHAI],-0.383159,Decreases Risk,1
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__Expenditure,0.347915,Increases Risk,2
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__Prev_RobustGap,0.336183,Increases Risk,3
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__RemainingPlannedDays,0.264449,Increases Risk,4
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__PlannedDurationDays,-0.254737,Decreases Risk,5
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__Prev_ExpenditureRatio,-0.225283,Decreases Risk,6
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__missingindicator_Prev_Expenditure,0.143595,Increases Risk,7
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__Prev_PhysicalProgress,0.103904,Increases Risk,8
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__RobustCurrentExpenditurePct,0.10101,Increases Risk,9
+400168,"500 KTA PDHPP Project, Usar",2026-05-01,1,0.3214,numeric__CurrentGapVsPreviousGap,0.098839,Increases Risk,10
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__Physical Progress,-0.319218,Decreases Risk,1
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__ScheduleElapsedRatio,-0.272294,Decreases Risk,2
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__RobustCurrentExpenditurePct,0.253011,Increases Risk,3
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__missingindicator_Prev_Expenditure,-0.197234,Decreases Risk,4
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__Prev_RobustGap,-0.169086,Decreases Risk,5
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__ProgressScheduleGap,-0.147429,Decreases Risk,6
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,categorical__Agency_National Highways Authority of India [NHAI],-0.134485,Decreases Risk,7
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__CurrentExpenditureRatio,0.118209,Increases Risk,8
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__Expenditure,0.109091,Increases Risk,9
+400171,2G Ethanol Biorefinery at Bathinda,2026-04-01,0,0.1167,numeric__RobustCurrentGap,-0.083241,Decreases Risk,10
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,categorical__Agency_National Highways Authority of India [NHAI],-0.398533,Decreases Risk,1
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__Physical Progress,-0.263943,Decreases Risk,2
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__CurrentGapVsPreviousGap,0.203628,Increases Risk,3
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__RobustCurrentExpenditurePct,0.199778,Increases Risk,4
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__missingindicator_Prev_Expenditure,0.17513,Increases Risk,5
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__Prev_Expenditure,0.152293,Increases Risk,6
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__ProgressScheduleGap,-0.149554,Decreases Risk,7
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__PlannedDurationDays,-0.132524,Decreases Risk,8
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__ScheduleElapsedRatio,-0.132261,Decreases Risk,9
+400171,2G Ethanol Biorefinery at Bathinda,2026-05-01,1,0.2097,numeric__Prev_ExpenditureRatio,-0.128873,Decreases Risk,10
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__HasPreviousRevisedDoc,-0.343477,Decreases Risk,1
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__PlannedDurationDays,-0.327215,Decreases Risk,2
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__RobustCurrentExpenditurePct,0.289317,Increases Risk,3
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__RobustCurrentGap,0.266318,Increases Risk,4
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,categorical__Agency_National Highways Authority of India [NHAI],-0.245359,Decreases Risk,5
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__CurrentExpenditureRatio,0.221374,Increases Risk,6
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__ProgressScheduleGap,-0.126455,Decreases Risk,7
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__RevisedCost,0.121903,Increases Risk,8
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__missingindicator_Prev_Expenditure,-0.121085,Decreases Risk,9
+400178,DINESH[MAKARDHOKRA-III] OC,2026-04-01,0,0.1747,numeric__RemainingPlannedDays,-0.102261,Decreases Risk,10
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__Prev_RobustGap,-0.767519,Decreases Risk,1
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__PlannedDurationDays,-0.5097,Decreases Risk,2
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,categorical__Agency_National Highways Authority of India [NHAI],-0.437405,Decreases Risk,3
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__HasPreviousRevisedDoc,-0.288223,Decreases Risk,4
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__RobustCurrentExpenditurePct,0.228541,Increases Risk,5
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__CurrentExpenditureRatio,0.186456,Increases Risk,6
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__Prev_ExpenditureRatio,-0.16556,Decreases Risk,7
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__ProgressScheduleGap,-0.135055,Decreases Risk,8
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__RevisedCost,0.108692,Increases Risk,9
+400178,DINESH[MAKARDHOKRA-III] OC,2026-05-01,1,0.0468,numeric__ElapsedDays,0.102972,Increases Risk,10
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__PlannedDurationDays,-0.423401,Decreases Risk,1
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__HasPreviousRevisedDoc,-0.344181,Decreases Risk,2
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__CurrentExpenditureRatio,0.303611,Increases Risk,3
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__OriginalCost,-0.173537,Decreases Risk,4
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__missingindicator_Prev_Expenditure,-0.160175,Decreases Risk,5
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,categorical__Agency_National Highways Authority of India [NHAI],-0.139878,Decreases Risk,6
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__RobustCurrentGap,-0.128583,Decreases Risk,7
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__Prev_RobustGap,-0.119691,Decreases Risk,8
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__RevisedCost,0.113936,Increases Risk,9
+400183,BALARAM EXPANSION OCP,2026-04-01,0,0.0891,numeric__RemainingPlannedDays,0.097372,Increases Risk,10
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__PlannedDurationDays,-0.845813,Decreases Risk,1
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__Prev_RobustGap,0.389762,Increases Risk,2
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,categorical__Agency_National Highways Authority of India [NHAI],-0.353797,Decreases Risk,3
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__CurrentExpenditureRatio,0.350822,Increases Risk,4
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__HasPreviousRevisedDoc,-0.26761,Decreases Risk,5
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__Physical Progress,0.198077,Increases Risk,6
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__missingindicator_Prev_Expenditure,0.137507,Increases Risk,7
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__RevisedCost,0.118013,Increases Risk,8
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__RobustCurrentExpenditurePct,0.11017,Increases Risk,9
+400183,BALARAM EXPANSION OCP,2026-05-01,0,0.1474,numeric__Prev_OriginalCost,-0.102221,Decreases Risk,10
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__PlannedDurationDays,-0.373945,Decreases Risk,1
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__RevisedCost,-0.30051,Decreases Risk,2
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__ElapsedDays,-0.294396,Decreases Risk,3
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,categorical__State_Delhi,0.277978,Increases Risk,4
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__OriginalCost,-0.226103,Decreases Risk,5
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__ProgressScheduleGap,-0.186364,Decreases Risk,6
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,categorical__Agency_National Highways Authority of India [NHAI],-0.18303,Decreases Risk,7
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__CurrentExpenditureRatio,0.180494,Increases Risk,8
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__missingindicator_Prev_Expenditure,-0.157531,Decreases Risk,9
+400188,"Redevelopment of Seven General Pool Residential Accommodation [GPRA] Coloniesin Delhi",2026-04-01,1,0.0626,numeric__Expenditure,0.137101,Increases Risk,10
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__PlannedDurationDays,-0.619358,Decreases Risk,1
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,categorical__Agency_National Highways Authority of India [NHAI],-0.467685,Decreases Risk,2
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__ElapsedDays,-0.310427,Decreases Risk,3
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,categorical__State_Delhi,0.277978,Increases Risk,4
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__RevisedCost,-0.277049,Decreases Risk,5
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__CurrentExpenditureRatio,0.240782,Increases Risk,6
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__CurrentGapVsPreviousGap,0.189984,Increases Risk,7
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__OriginalCost,-0.168888,Decreases Risk,8
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__Expenditure,0.166138,Increases Risk,9
+400188,Redevelopment of Seven General Pool Residential Accommodation [GPRA] Colonies in Delhi,2026-05-01,0,0.1031,numeric__ProgressScheduleGap,-0.146613,Decreases Risk,10
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__PlannedDurationDays,-0.849232,Decreases Risk,1
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__ElapsedDays,-0.327616,Decreases Risk,2
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,categorical__State_Uttar Pradesh,-0.316439,Decreases Risk,3
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,categorical__Agency_National Highways Authority of India [NHAI],-0.255632,Decreases Risk,4
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__RobustCurrentGap,0.220274,Increases Risk,5
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__CurrentExpenditureRatio,0.215725,Increases Risk,6
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__ProgressScheduleGap,0.203561,Increases Risk,7
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__OriginalCost,-0.163121,Decreases Risk,8
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__missingindicator_Prev_Expenditure,-0.118471,Decreases Risk,9
+400205,Sahjanwa-Dohrighat,2026-04-01,1,0.0491,numeric__Prev_RobustGap,-0.109975,Decreases Risk,10
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__PlannedDurationDays,-0.798853,Decreases Risk,1
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,categorical__State_Uttar Pradesh,-0.500187,Decreases Risk,2
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,categorical__Agency_National Highways Authority of India [NHAI],-0.456016,Decreases Risk,3
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__Prev_RobustGap,-0.440113,Decreases Risk,4
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__ElapsedDays,-0.265963,Decreases Risk,5
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__ProgressScheduleGap,0.211077,Increases Risk,6
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__CurrentExpenditureRatio,0.196013,Increases Risk,7
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__CurrentGapVsPreviousGap,-0.193086,Decreases Risk,8
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__RemainingPlannedDays,-0.189279,Decreases Risk,9
+400205,Sahjanwa-Dohrighat,2026-05-01,1,0.02,numeric__OriginalCost,-0.152735,Decreases Risk,10
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__ElapsedDays,-0.294823,Decreases Risk,1
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__PlannedDurationDays,-0.277136,Decreases Risk,2
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__CurrentExpenditureRatio,0.183829,Increases Risk,3
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__ProjectAgeDays,0.182451,Increases Risk,4
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,categorical__Agency_National Highways Authority of India [NHAI],-0.166917,Decreases Risk,5
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__RobustCurrentExpenditurePct,0.157188,Increases Risk,6
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__missingindicator_Prev_Expenditure,-0.146706,Decreases Risk,7
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__Physical Progress,0.107293,Increases Risk,8
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__Prev_RobustGap,-0.104653,Decreases Risk,9
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-04-01,0,0.1715,numeric__Expenditure,0.081909,Increases Risk,10
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__PlannedDurationDays,-0.738925,Decreases Risk,1
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,categorical__Agency_National Highways Authority of India [NHAI],-0.436875,Decreases Risk,2
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__ElapsedDays,-0.299511,Decreases Risk,3
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__ProjectAgeDays,0.162763,Increases Risk,4
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__CurrentGapVsPreviousGap,0.162586,Increases Risk,5
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__missingindicator_Prev_Expenditure,0.136044,Increases Risk,6
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__RobustCurrentExpenditurePct,0.131215,Increases Risk,7
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__Physical Progress,0.097953,Increases Risk,8
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__CurrentExpenditureRatio,0.088246,Increases Risk,9
+400223,Nagapattinam-Tiruturaipundi and Karaikal-Peralam New Line,2026-05-01,0,0.1229,numeric__Expenditure,0.083786,Increases Risk,10
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__PlannedDurationDays,-0.829222,Decreases Risk,1
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,categorical__Agency_East Coast Railway [ECoR] - II,0.82848,Increases Risk,2
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,categorical__Agency_National Highways Authority of India [NHAI],-0.265306,Decreases Risk,3
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__RobustCurrentGap,0.242821,Increases Risk,4
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__RobustCurrentExpenditurePct,0.229694,Increases Risk,5
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__RevisedCost,-0.22489,Decreases Risk,6
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__ElapsedDays,-0.184693,Decreases Risk,7
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__CurrentExpenditureRatio,0.178073,Increases Risk,8
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__OriginalCost,0.152614,Increases Risk,9
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-04-01,1,0.1818,numeric__missingindicator_Prev_Expenditure,-0.140703,Decreases Risk,10
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,categorical__Agency_East Coast Railway [ECoR] - II,0.804752,Increases Risk,1
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__PlannedDurationDays,-0.792596,Decreases Risk,2
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,categorical__Agency_National Highways Authority of India [NHAI],-0.479495,Decreases Risk,3
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__RobustCurrentGap,0.207688,Increases Risk,4
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__CurrentGapVsPreviousGap,-0.207516,Decreases Risk,5
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__RevisedCost,-0.182124,Decreases Risk,6
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__RobustCurrentExpenditurePct,0.150709,Increases Risk,7
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__Prev_RobustGap,-0.14913,Decreases Risk,8
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__missingindicator_Prev_Expenditure,0.132669,Increases Risk,9
+400232,Brundamal-Jharsuguda- flyover connection for joining downline,2026-05-01,0,0.1302,numeric__Prev_ExpenditureRatio,-0.129128,Decreases Risk,10
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__CurrentExpenditureRatio,-1.132599,Decreases Risk,1
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__PlannedDurationDays,-0.687393,Decreases Risk,2
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__ElapsedDays,-0.37455,Decreases Risk,3
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,categorical__Agency_National Highways Authority of India [NHAI],-0.302974,Decreases Risk,4
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__Prev_RobustGap,-0.136125,Decreases Risk,5
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__missingindicator_Prev_Expenditure,-0.126985,Decreases Risk,6
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__RobustCurrentGap,0.115209,Increases Risk,7
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__RobustCurrentExpenditurePct,-0.067111,Decreases Risk,8
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__ProjectAgeDays,0.065062,Increases Risk,9
+400247,"Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New LineAnd Naihati-Ranaghat 3rd Line.",2026-04-01,0,0.0189,numeric__RemainingPlannedDays,-0.058301,Decreases Risk,10
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__CurrentExpenditureRatio,-1.135985,Decreases Risk,1
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__PlannedDurationDays,-0.747561,Decreases Risk,2
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__Prev_RobustGap,-0.558044,Decreases Risk,3
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__ElapsedDays,-0.400142,Decreases Risk,4
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__Prev_ExpenditureRatio,-0.386293,Decreases Risk,5
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,categorical__Agency_National Highways Authority of India [NHAI],-0.305819,Decreases Risk,6
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__RobustCurrentExpenditurePct,-0.125219,Decreases Risk,7
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__ProjectAgeDays,0.090588,Increases Risk,8
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__missingindicator_Prev_Expenditure,0.083178,Increases Risk,9
+400247,Kalinarayanpur-Krishnanagar Doubling Alongwith Krishnanagar - Chapra New Line And Naihati-Ranaghat 3rd Line.,2026-05-01,0,0.0078,numeric__Physical Progress,0.073029,Increases Risk,10
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__Expenditure,0.346204,Increases Risk,1
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__ElapsedDays,-0.315943,Decreases Risk,2
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__RobustCurrentExpenditurePct,0.251263,Increases Risk,3
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,categorical__Agency_National Highways Authority of India [NHAI],-0.21915,Decreases Risk,4
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__PlannedDurationDays,-0.217606,Decreases Risk,5
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__CurrentExpenditureRatio,0.170364,Increases Risk,6
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__missingindicator_Prev_Expenditure,-0.150322,Decreases Risk,7
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__Physical Progress,-0.138946,Decreases Risk,8
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__Prev_RobustGap,-0.128556,Decreases Risk,9
+400253,Vizianagaram - Titlagarh 3rd line  [272 Km including By - pass line of 7.68 KM],2026-04-01,0,0.1541,numeric__OriginalCost,-0.112467,Decreases Risk,10
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__PlannedDurationDays,-0.442284,Decreases Risk,1
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__ElapsedDays,-0.428092,Decreases Risk,2
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__Expenditure,0.301907,Increases Risk,3
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__Prev_ExpenditureRatio,-0.281911,Decreases Risk,4
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,categorical__Agency_National Highways Authority of India [NHAI],-0.280079,Decreases Risk,5
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__RobustCurrentExpenditurePct,0.224551,Increases Risk,6
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__CurrentExpenditureRatio,0.1554,Increases Risk,7
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__RobustCurrentGap,-0.139961,Decreases Risk,8
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__RemainingPlannedDays,0.135979,Increases Risk,9
+400253,Vizianagaram - Titlagarh 3rd line [272 Km including By - pass line of 7.68 KM],2026-05-01,0,0.1385,numeric__missingindicator_Prev_Expenditure,0.117038,Increases Risk,10
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,categorical__State_Jharkhand,0.53043,Increases Risk,1
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__RevisedCost,-0.371528,Decreases Risk,2
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__ElapsedDays,-0.339065,Decreases Risk,3
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__PlannedDurationDays,-0.267837,Decreases Risk,4
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__RobustCurrentExpenditurePct,0.253575,Increases Risk,5
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,categorical__Agency_National Highways Authority of India [NHAI],-0.237994,Decreases Risk,6
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__OriginalCost,-0.237257,Decreases Risk,7
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__Expenditure,0.152326,Increases Risk,8
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__CurrentExpenditureRatio,0.14298,Increases Risk,9
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-04-01,0,0.1224,numeric__missingindicator_Prev_Expenditure,-0.141991,Decreases Risk,10
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__PlannedDurationDays,-0.524661,Decreases Risk,1
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,categorical__Agency_National Highways Authority of India [NHAI],-0.420885,Decreases Risk,2
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__RevisedCost,-0.418011,Decreases Risk,3
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__ElapsedDays,-0.402256,Decreases Risk,4
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,categorical__State_Jharkhand,0.377552,Increases Risk,5
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__RobustCurrentExpenditurePct,0.225512,Increases Risk,6
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__Prev_ExpenditureRatio,0.207282,Increases Risk,7
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__OriginalCost,-0.188897,Decreases Risk,8
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__CurrentGapVsPreviousGap,0.168237,Increases Risk,9
+400261,Patratu Thermal Power Station Expansion Project Phase-I [3x800 MW],2026-05-01,0,0.1099,numeric__ProgressVelocity,-0.141153,Decreases Risk,10
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__PlannedDurationDays,-0.878527,Decreases Risk,1
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__RobustCurrentGap,0.250014,Increases Risk,2
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__ElapsedDays,-0.243519,Decreases Risk,3
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,categorical__Agency_National Highways Authority of India [NHAI],-0.240092,Decreases Risk,4
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__OriginalCost,-0.218852,Decreases Risk,5
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__CurrentExpenditureRatio,0.195198,Increases Risk,6
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__RevisedCost,0.180951,Increases Risk,7
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__missingindicator_Prev_Expenditure,-0.146198,Decreases Risk,8
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__Prev_RobustGap,-0.122937,Decreases Risk,9
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-04-01,0,0.0905,numeric__ProjectAgeDays,0.105781,Increases Risk,10
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__PlannedDurationDays,-0.898081,Decreases Risk,1
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,categorical__Agency_National Highways Authority of India [NHAI],-0.472872,Decreases Risk,2
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__CurrentGapVsPreviousGap,0.465247,Increases Risk,3
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__CurrentExpenditureRatio,0.266881,Increases Risk,4
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__RevisedCost,0.207527,Increases Risk,5
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__Prev_RobustGap,-0.191269,Decreases Risk,6
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__ElapsedDays,-0.16905,Decreases Risk,7
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__OriginalCost,-0.162807,Decreases Risk,8
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__ProjectAgeDays,0.145712,Increases Risk,9
+400275,Tindivanam-Nagari New Line Project [184.5 km],2026-05-01,0,0.2562,numeric__RemainingPlannedDays,0.135201,Increases Risk,10
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__PlannedDurationDays,-0.752856,Decreases Risk,1
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__ElapsedDays,-0.26398,Decreases Risk,2
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__Physical Progress,-0.229368,Decreases Risk,3
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__missingindicator_Prev_Expenditure,-0.164648,Decreases Risk,4
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__Prev_RobustGap,-0.158701,Decreases Risk,5
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,categorical__Agency_National Highways Authority of India [NHAI],-0.15868,Decreases Risk,6
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__CurrentExpenditureRatio,0.150843,Increases Risk,7
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__ProjectAgeDays,0.125603,Increases Risk,8
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__RobustCurrentGap,-0.117211,Decreases Risk,9
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-04-01,0,0.0632,numeric__RobustCurrentExpenditurePct,0.104819,Increases Risk,10
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__PlannedDurationDays,-1.324741,Decreases Risk,1
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__Prev_RobustGap,0.495873,Increases Risk,2
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,categorical__Agency_National Highways Authority of India [NHAI],-0.385778,Decreases Risk,3
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__ElapsedDays,-0.314681,Decreases Risk,4
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__Physical Progress,-0.155686,Decreases Risk,5
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__missingindicator_Prev_Expenditure,0.151464,Increases Risk,6
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__Prev_PhysicalProgress,0.134011,Increases Risk,7
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__CurrentExpenditureRatio,0.133377,Increases Risk,8
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__ProjectAgeDays,0.129671,Increases Risk,9
+400280,Phase II extension of MRTS from Velachery to St Thomas Mount,2026-05-01,0,0.0807,numeric__Prev_ExpenditureRatio,-0.109111,Decreases Risk,10
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__RobustCurrentExpenditurePct,0.418076,Increases Risk,1
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__CurrentExpenditureRatio,0.319244,Increases Risk,2
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,categorical__Agency_National Highways Authority of India [NHAI],-0.229405,Decreases Risk,3
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__RobustCurrentGap,0.196699,Increases Risk,4
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__missingindicator_Prev_Expenditure,-0.160196,Decreases Risk,5
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__Physical Progress,0.149292,Increases Risk,6
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__Prev_RobustGap,-0.141876,Decreases Risk,7
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__PlannedDurationDays,0.138229,Increases Risk,8
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__Expenditure,-0.111079,Decreases Risk,9
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDROPOWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-04-01,0,0.3147,numeric__RemainingPlannedDays,0.081431,Increases Risk,10
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,categorical__Agency_National Highways Authority of India [NHAI],-0.429989,Decreases Risk,1
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__RobustCurrentExpenditurePct,0.294291,Increases Risk,2
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__CurrentGapVsPreviousGap,0.24162,Increases Risk,3
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__CurrentExpenditureRatio,0.168892,Increases Risk,4
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__missingindicator_Prev_Expenditure,0.143707,Increases Risk,5
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__PlannedDurationDays,-0.127216,Decreases Risk,6
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__Physical Progress,0.117567,Increases Risk,7
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__Expenditure,-0.115392,Decreases Risk,8
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__Prev_ExpenditureRatio,-0.110667,Decreases Risk,9
+602181,"TEESTA-VI HE PROJECT, SIKKIM [500 MW], executed by LANCO TEESTA HYDRO POWER LIMITED [A wholly owned Subsidiary of NHPC LTD. acquired through NCLT]",2026-05-01,0,0.3205,numeric__Prev_RevisedCost,0.107977,Increases Risk,10
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__PlannedDurationDays,-0.42393,Decreases Risk,1
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__RevisedCost,-0.362244,Decreases Risk,2
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__OriginalCost,-0.280081,Decreases Risk,3
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,categorical__Agency_National Highways Authority of India [NHAI],-0.242309,Decreases Risk,4
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__Expenditure,-0.185456,Decreases Risk,5
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__RemainingPlannedDays,-0.168441,Decreases Risk,6
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__missingindicator_Prev_Expenditure,-0.138039,Decreases Risk,7
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__Prev_RobustGap,-0.127492,Decreases Risk,8
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__ScheduleElapsedRatio,0.124467,Increases Risk,9
+602182,Dibang Multipurpose Project,2026-04-01,0,0.0283,numeric__CurrentExpenditureRatio,-0.095208,Decreases Risk,10
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__PlannedDurationDays,-0.328154,Decreases Risk,1
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__CurrentExpenditureRatio,0.195749,Increases Risk,2
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__missingindicator_Prev_Expenditure,-0.155169,Decreases Risk,3
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__RobustCurrentExpenditurePct,0.153486,Increases Risk,4
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,categorical__Agency_National Highways Authority of India [NHAI],-0.148941,Decreases Risk,5
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__Prev_RobustGap,-0.129998,Decreases Risk,6
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__RobustCurrentGap,-0.116562,Decreases Risk,7
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__Physical Progress,0.110087,Increases Risk,8
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__RemainingPlannedDays,-0.091145,Decreases Risk,9
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-04-01,0,0.1502,numeric__ElapsedDays,0.064895,Increases Risk,10
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__PlannedDurationDays,-0.623485,Decreases Risk,1
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,categorical__Agency_National Highways Authority of India [NHAI],-0.429326,Decreases Risk,2
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__Prev_ExpenditureRatio,-0.184526,Decreases Risk,3
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__missingindicator_Prev_Expenditure,0.136362,Increases Risk,4
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__RobustCurrentGap,-0.129115,Decreases Risk,5
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__Physical Progress,0.104621,Increases Risk,6
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__ElapsedDays,0.104403,Increases Risk,7
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__RobustCurrentExpenditurePct,0.102315,Increases Risk,8
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__Prev_RevisedCost,0.100928,Increases Risk,9
+602582,Dhaulasidh Hydro Electric Project [66 MW],2026-05-01,0,0.1278,numeric__Prev_RobustExpenditurePct,-0.095678,Decreases Risk,10
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__CurrentExpenditureRatio,0.353212,Increases Risk,1
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__Physical Progress,-0.327884,Decreases Risk,2
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__Prev_RobustGap,-0.186738,Decreases Risk,3
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__missingindicator_Prev_Expenditure,-0.183395,Decreases Risk,4
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__ProgressScheduleGap,0.18303,Increases Risk,5
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,categorical__Agency_National Highways Authority of India [NHAI],-0.125458,Decreases Risk,6
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__ProjectAgeDays,0.111865,Increases Risk,7
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__RobustCurrentExpenditurePct,0.104308,Increases Risk,8
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__RemainingPlannedDays,0.098899,Increases Risk,9
+602792,"Gauge Conversion of Kendri-Dhamtari  including Abhanpur - Rajim Branch line 67.20Kms - 2nd Material Modification to Raipur Titlagarh doubling.",2026-04-01,1,0.261,numeric__PlannedDurationDays,0.087872,Increases Risk,10
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__Prev_RobustGap,0.579454,Increases Risk,1
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__CurrentExpenditureRatio,0.447144,Increases Risk,2
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,categorical__Agency_National Highways Authority of India [NHAI],-0.339577,Decreases Risk,3
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__PlannedDurationDays,-0.253833,Decreases Risk,4
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__RobustCurrentGap,0.216891,Increases Risk,5
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__Physical Progress,-0.21567,Decreases Risk,6
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__ProjectAgeDays,0.178801,Increases Risk,7
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__Prev_PhysicalProgress,0.165399,Increases Risk,8
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__missingindicator_Prev_Expenditure,0.164896,Increases Risk,9
+602792,Gauge Conversion of Kendri-Dhamtari including Abhanpur - Rajim Branch line 67.20 Kms - 2nd Material Modification to Raipur Titlagarh doubling.,2026-05-01,1,0.6025,numeric__RobustCurrentExpenditurePct,0.139457,Increases Risk,10
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__PlannedDurationDays,-0.690854,Decreases Risk,1
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__RevisedCost,0.317069,Increases Risk,2
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__ElapsedDays,-0.301354,Decreases Risk,3
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__RobustCurrentExpenditurePct,0.278027,Increases Risk,4
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,categorical__Agency_National Highways Authority of India [NHAI],-0.27527,Decreases Risk,5
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__RobustCurrentGap,0.233196,Increases Risk,6
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__CurrentExpenditureRatio,0.209818,Increases Risk,7
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__Expenditure,0.156392,Increases Risk,8
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__missingindicator_Prev_Expenditure,-0.145765,Decreases Risk,9
+603945,Integrated Anandpur Barrage Project,2026-04-01,0,0.2289,numeric__RemainingPlannedDays,0.128222,Increases Risk,10
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__PlannedDurationDays,-0.867005,Decreases Risk,1
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__Prev_RobustGap,-0.627812,Decreases Risk,2
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,categorical__Agency_National Highways Authority of India [NHAI],-0.444567,Decreases Risk,3
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__ElapsedDays,-0.331961,Decreases Risk,4
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__RobustCurrentExpenditurePct,0.201993,Increases Risk,5
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__CurrentExpenditureRatio,0.194384,Increases Risk,6
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__RevisedCost,0.170867,Increases Risk,7
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__Prev_Expenditure,-0.159875,Decreases Risk,8
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__RemainingPlannedDays,0.138376,Increases Risk,9
+603945,Integrated Anandpur Barrage Project,2026-05-01,0,0.0587,numeric__missingindicator_Prev_Expenditure,0.133563,Increases Risk,10
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__ScheduleElapsedRatio,-0.251279,Decreases Risk,1
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__Physical Progress,0.211668,Increases Risk,2
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__RevisedCost,0.210281,Increases Risk,3
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__CurrentExpenditureRatio,0.205334,Increases Risk,4
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,categorical__Agency_National Highways Authority of India [NHAI],-0.176495,Decreases Risk,5
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__missingindicator_Prev_Expenditure,-0.173187,Decreases Risk,6
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__RobustCurrentExpenditurePct,0.161528,Increases Risk,7
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__Expenditure,0.156936,Increases Risk,8
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__Prev_RobustGap,-0.147577,Decreases Risk,9
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II,Faridabad",2026-04-01,1,0.2001,numeric__ElapsedDays,-0.133968,Decreases Risk,10
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,categorical__Agency_National Highways Authority of India [NHAI],-0.455507,Decreases Risk,1
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__RevisedCost,0.193413,Increases Risk,2
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__Expenditure,0.186079,Increases Risk,3
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__ElapsedDays,-0.18544,Decreases Risk,4
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__Physical Progress,0.181602,Increases Risk,5
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__CurrentExpenditureRatio,0.17886,Increases Risk,6
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__ScheduleElapsedRatio,-0.164858,Decreases Risk,7
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__missingindicator_Prev_Expenditure,0.154716,Increases Risk,8
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__RobustCurrentExpenditurePct,0.154024,Increases Risk,9
+604853,"Indian Oil Technology Development and Deployment Centre at R&D Campus-II, Faridabad",2026-05-01,0,0.2289,numeric__PlannedDurationDays,-0.123493,Decreases Risk,10
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__CurrentExpenditureRatio,0.308961,Increases Risk,1
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__RevisedCost,0.216036,Increases Risk,2
+605155,Kwar HE Project,2026-04-01,0,0.2707,categorical__Agency_National Highways Authority of India [NHAI],-0.20239,Decreases Risk,3
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__RobustCurrentGap,0.177706,Increases Risk,4
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__PlannedDurationDays,0.171215,Increases Risk,5
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__OriginalCost,-0.143525,Decreases Risk,6
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__ProgressScheduleGap,-0.139046,Decreases Risk,7
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__Prev_RobustGap,-0.137825,Decreases Risk,8
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__missingindicator_Prev_Expenditure,-0.13049,Decreases Risk,9
+605155,Kwar HE Project,2026-04-01,0,0.2707,numeric__RobustCurrentExpenditurePct,0.091133,Increases Risk,10
+605155,Kwar HE Project,2026-05-01,0,0.3719,categorical__Agency_National Highways Authority of India [NHAI],-0.369482,Decreases Risk,1
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__CurrentExpenditureRatio,0.361485,Increases Risk,2
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__RevisedCost,0.214454,Increases Risk,3
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__ProgressScheduleGap,-0.153581,Decreases Risk,4
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__Prev_Expenditure,0.130565,Increases Risk,5
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__OriginalCost,-0.123335,Decreases Risk,6
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__Prev_RevisedCost,0.119274,Increases Risk,7
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__RobustCurrentGap,0.11726,Increases Risk,8
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__missingindicator_Prev_Expenditure,0.11675,Increases Risk,9
+605155,Kwar HE Project,2026-05-01,0,0.3719,numeric__RobustCurrentExpenditurePct,0.104359,Increases Risk,10
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__Physical Progress,-0.303285,Decreases Risk,1
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__RobustCurrentExpenditurePct,0.259203,Increases Risk,2
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__missingindicator_Prev_Expenditure,-0.188936,Decreases Risk,3
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__Prev_RobustGap,-0.165902,Decreases Risk,4
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__Expenditure,0.135977,Increases Risk,5
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,categorical__Agency_National Highways Authority of India [NHAI],-0.129961,Decreases Risk,6
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__CurrentExpenditureRatio,0.128944,Increases Risk,7
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__ProgressScheduleGap,-0.116664,Decreases Risk,8
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__RobustCurrentGap,-0.109864,Decreases Risk,9
+605156,"Rangit-IV HE Project [120 MW]  executed by Jal Power Corporation Ltd. [JPCL] - Awholly owned subsidiary of NHPC Ltd. acquired through NCLT",2026-04-01,1,0.1334,numeric__ScheduleElapsedRatio,-0.08846,Decreases Risk,10
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__CurrentGapVsPreviousGap,-0.513264,Decreases Risk,1
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,categorical__Agency_National Highways Authority of India [NHAI],-0.393872,Decreases Risk,2
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__Physical Progress,-0.22029,Decreases Risk,3
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__RobustCurrentExpenditurePct,0.193021,Increases Risk,4
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__Expenditure,0.173263,Increases Risk,5
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__missingindicator_Prev_Expenditure,0.164168,Increases Risk,6
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__ScheduleElapsedRatio,-0.160363,Decreases Risk,7
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__Prev_Expenditure,0.148292,Increases Risk,8
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__RobustCurrentGap,-0.13274,Decreases Risk,9
+605156,Rangit-IV HE Project [120 MW] executed by Jal Power Corporation Ltd. [JPCL] - A wholly owned subsidiary of NHPC Ltd. acquired through NCLT,2026-05-01,0,0.1018,numeric__ProgressScheduleGap,-0.127182,Decreases Risk,10
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__missingindicator_Prev_Expenditure,-0.220617,Decreases Risk,1
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__Prev_RobustGap,-0.18536,Decreases Risk,2
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__CurrentExpenditureRatio,0.17996,Increases Risk,3
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__Expenditure,0.150356,Increases Risk,4
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__RobustCurrentExpenditurePct,0.149753,Increases Risk,5
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__RobustCurrentGap,-0.14204,Decreases Risk,6
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,categorical__Agency_National Highways Authority of India [NHAI],-0.124068,Decreases Risk,7
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__Physical Progress,0.117723,Increases Risk,8
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__RevisedCost,0.083017,Increases Risk,9
+606431,"CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE1A",2026-04-01,0,0.1776,numeric__Prev_PhysicalProgress,-0.081475,Decreases Risk,10
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__Prev_RobustGap,0.651434,Increases Risk,1
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,categorical__Agency_National Highways Authority of India [NHAI],-0.351099,Decreases Risk,2
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__CurrentExpenditureRatio,0.266515,Increases Risk,3
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__missingindicator_Prev_Expenditure,0.195251,Increases Risk,4
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__Expenditure,0.19444,Increases Risk,5
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__RobustCurrentExpenditurePct,0.190122,Increases Risk,6
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__Prev_RevisedCost,0.152374,Increases Risk,7
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__Prev_PhysicalProgress,0.122501,Increases Risk,8
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__RemainingPlannedDays,0.117267,Increases Risk,9
+606431,CONSTRUCTION OF PERMANENT CAMPUS FOR IIT PALAKKAD UNDER PHASE 1A,2026-05-01,0,0.6348,numeric__Physical Progress,0.096789,Increases Risk,10
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__missingindicator_Prev_Expenditure,-0.231747,Decreases Risk,1
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__RobustCurrentExpenditurePct,0.223863,Increases Risk,2
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__ScheduleElapsedRatio,-0.214434,Decreases Risk,3
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__Prev_RobustGap,-0.19758,Decreases Risk,4
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__CurrentExpenditureRatio,0.144954,Increases Risk,5
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__PlannedDurationDays,0.123486,Increases Risk,6
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,categorical__Agency_National Highways Authority of India [NHAI],-0.119157,Decreases Risk,7
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__Expenditure,0.105459,Increases Risk,8
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,categorical__State_Telangana,-0.093402,Decreases Risk,9
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-04-01,0,0.1758,numeric__RevisedCost,0.089298,Increases Risk,10
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,categorical__Agency_National Highways Authority of India [NHAI],-0.284092,Decreases Risk,1
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__PlannedDurationDays,0.275676,Increases Risk,2
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__RobustCurrentExpenditurePct,0.233735,Increases Risk,3
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__missingindicator_Prev_Expenditure,0.223662,Increases Risk,4
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__Prev_PhysicalProgress,0.187003,Increases Risk,5
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__CurrentExpenditureRatio,0.15115,Increases Risk,6
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__Prev_RobustGap,-0.141163,Decreases Risk,7
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__ScheduleElapsedRatio,-0.134761,Decreases Risk,8
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__Expenditure,0.100105,Increases Risk,9
+609996,Construction of Precast housing and hostels at IIT Hyderabad,2026-05-01,0,0.3707,numeric__RobustCurrentGap,-0.096108,Decreases Risk,10
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__PlannedDurationDays,-0.344073,Decreases Risk,1
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,categorical__State_Gujarat,-0.323976,Decreases Risk,2
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,categorical__Agency_National Highways Authority of India [NHAI],-0.259202,Decreases Risk,3
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__Expenditure,0.197254,Increases Risk,4
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__OriginalCost,0.19619,Increases Risk,5
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__CurrentExpenditureRatio,-0.164999,Decreases Risk,6
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__RobustCurrentExpenditurePct,-0.145247,Decreases Risk,7
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__ProgressScheduleGap,-0.144365,Decreases Risk,8
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__missingindicator_Prev_Expenditure,-0.124166,Decreases Risk,9
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-04-01,0,0.0644,numeric__Prev_RobustGap,-0.092856,Decreases Risk,10
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__PlannedDurationDays,-0.631733,Decreases Risk,1
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,categorical__Agency_National Highways Authority of India [NHAI],-0.383126,Decreases Risk,2
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,categorical__State_Gujarat,-0.347262,Decreases Risk,3
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__Expenditure,0.206847,Increases Risk,4
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__CurrentGapVsPreviousGap,0.203684,Increases Risk,5
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__OriginalCost,0.148978,Increases Risk,6
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__missingindicator_Prev_Expenditure,0.117202,Increases Risk,7
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__RobustCurrentExpenditurePct,-0.113082,Decreases Risk,8
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__Prev_RevisedCost,-0.081513,Decreases Risk,9
+611943,New Broad Gauge line between Naliya to Jakhau Port,2026-05-01,0,0.1275,numeric__Prev_Expenditure,-0.069187,Decreases Risk,10
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__PlannedDurationDays,-0.389304,Decreases Risk,1
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,categorical__State_Gujarat,-0.280457,Decreases Risk,2
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__OriginalCost,0.245186,Increases Risk,3
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,categorical__Agency_National Highways Authority of India [NHAI],-0.183841,Decreases Risk,4
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__missingindicator_Prev_Expenditure,-0.150145,Decreases Risk,5
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__ScheduleElapsedRatio,0.134695,Increases Risk,6
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__Expenditure,0.108082,Increases Risk,7
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__CurrentExpenditureRatio,-0.10774,Decreases Risk,8
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__RobustCurrentExpenditurePct,-0.104567,Decreases Risk,9
+611945,Petlad Bhadran 23 Kms,2026-04-01,0,0.0766,numeric__Prev_RobustGap,-0.093966,Decreases Risk,10
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__PlannedDurationDays,-0.568741,Decreases Risk,1
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,categorical__Agency_National Highways Authority of India [NHAI],-0.386172,Decreases Risk,2
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,categorical__State_Gujarat,-0.303744,Decreases Risk,3
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__OriginalCost,0.185385,Increases Risk,4
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__missingindicator_Prev_Expenditure,0.144833,Increases Risk,5
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__Expenditure,0.126862,Increases Risk,6
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__Prev_RobustGap,-0.095108,Decreases Risk,7
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__ScheduleElapsedRatio,0.09143,Increases Risk,8
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__RobustCurrentExpenditurePct,-0.088343,Decreases Risk,9
+611945,Petlad Bhadran 23 Kms,2026-05-01,0,0.0874,numeric__RobustCurrentGap,-0.071693,Decreases Risk,10
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__HasPreviousRevisedDoc,-0.383391,Decreases Risk,1
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,categorical__Agency_National Highways Authority of India [NHAI],-0.232049,Decreases Risk,2
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__CurrentExpenditureRatio,0.14,Increases Risk,3
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__missingindicator_Prev_Expenditure,-0.138116,Decreases Risk,4
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__Prev_RobustGap,-0.122363,Decreases Risk,5
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__ScheduleElapsedRatio,0.110343,Increases Risk,6
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__PlannedDurationDays,0.101931,Increases Risk,7
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__RevisedCost,-0.090754,Decreases Risk,8
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,numeric__RobustCurrentExpenditurePct,0.078102,Increases Risk,9
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NITUttarakhand at Sumari, Pauri Garhwal",2026-04-01,0,0.1354,categorical__State_Uttarakhand,0.068436,Increases Risk,10
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__HasPreviousRevisedDoc,-0.384959,Decreases Risk,1
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,categorical__Agency_National Highways Authority of India [NHAI],-0.384294,Decreases Risk,2
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__Physical Progress,0.182835,Increases Risk,3
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__CurrentExpenditureRatio,0.132656,Increases Risk,4
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__missingindicator_Prev_Expenditure,0.126879,Increases Risk,5
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__ProgressVelocity,-0.112408,Decreases Risk,6
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__RobustCurrentGap,-0.077679,Decreases Risk,7
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__RevisedCost,-0.07589,Decreases Risk,8
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__ProgressScheduleGap,-0.073338,Decreases Risk,9
+611963,"Construction & Development of Infrastructural Facilities in the main campus of NIT Uttarakhand at Sumari, Pauri Garhwal",2026-05-01,1,0.1377,numeric__ProjectAgeDays,0.071952,Increases Risk,10
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__CurrentExpenditureRatio,0.343005,Increases Risk,1
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,categorical__State_Gujarat,-0.339464,Decreases Risk,2
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__RobustCurrentGap,0.227792,Increases Risk,3
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,categorical__Agency_National Highways Authority of India [NHAI],-0.211262,Decreases Risk,4
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__ProgressScheduleGap,-0.139321,Decreases Risk,5
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__missingindicator_Prev_Expenditure,-0.129769,Decreases Risk,6
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__PlannedDurationDays,0.126683,Increases Risk,7
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__OriginalCost,-0.122094,Decreases Risk,8
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__Expenditure,0.108731,Increases Risk,9
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-04-01,0,0.1906,numeric__RobustCurrentExpenditurePct,0.101039,Increases Risk,10
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__ProgressVelocity,0.448342,Increases Risk,1
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__CurrentGapVsPreviousGap,0.352952,Increases Risk,2
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,categorical__Agency_National Highways Authority of India [NHAI],-0.316881,Decreases Risk,3
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,categorical__State_Gujarat,-0.27934,Decreases Risk,4
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__CurrentExpenditureRatio,0.237337,Increases Risk,5
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__Prev_ProgressRemaining,-0.209244,Decreases Risk,6
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__missingindicator_Prev_Expenditure,0.102603,Increases Risk,7
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__Prev_RevisedCost,0.10044,Increases Risk,8
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__OriginalCost,-0.096549,Decreases Risk,9
+611974,Western Railway Samakhiali Gandhidham Quadrupiling 53 Kms,2026-05-01,0,0.3369,numeric__Expenditure,0.09344,Increases Risk,10
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__RobustCurrentExpenditurePct,0.248219,Increases Risk,1
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__missingindicator_Prev_Expenditure,-0.231182,Decreases Risk,2
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__CurrentExpenditureRatio,0.22927,Increases Risk,3
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,categorical__Agency_Power Grid Corporation of India Limited [POWERGRID],-0.188974,Decreases Risk,4
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,categorical__Agency_National Highways Authority of India [NHAI],-0.188603,Decreases Risk,5
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__PlannedDurationDays,0.166157,Increases Risk,6
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__Prev_RobustGap,-0.148058,Decreases Risk,7
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__Physical Progress,-0.12079,Decreases Risk,8
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__ProjectAgeDays,-0.084749,Decreases Risk,9
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [BidarTransmission Ltd]",2026-04-01,0,0.1461,numeric__RemainingPlannedDays,-0.068206,Decreases Risk,10
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__PlannedDurationDays,0.429842,Increases Risk,1
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,categorical__Agency_National Highways Authority of India [NHAI],-0.323146,Decreases Risk,2
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__CurrentGapVsPreviousGap,0.267836,Increases Risk,3
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__RobustCurrentExpenditurePct,0.248287,Increases Risk,4
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__missingindicator_Prev_Expenditure,0.211568,Increases Risk,5
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__Prev_ExpenditureRatio,-0.146442,Decreases Risk,6
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__Prev_RevisedCost,0.141123,Increases Risk,7
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__Prev_Expenditure,0.137874,Increases Risk,8
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,categorical__Agency_Power Grid Corporation of India Limited [POWERGRID],-0.134341,Decreases Risk,9
+612138,"Transmission Scheme for Solar Energy Zone in Bidar [2500 MW], Karnataka [Bidar Transmission Ltd]",2026-05-01,0,0.3358,numeric__Prev_RobustExpenditurePct,-0.122286,Decreases Risk,10
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__PlannedDurationDays,-0.48671,Decreases Risk,1
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,categorical__State_Uttar Pradesh,-0.436075,Decreases Risk,2
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__RevisedCost,-0.402374,Decreases Risk,3
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__OriginalCost,-0.353588,Decreases Risk,4
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__HasPreviousRevisedDoc,-0.302981,Decreases Risk,5
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,categorical__Agency_National Highways Authority of India [NHAI],-0.239927,Decreases Risk,6
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__Expenditure,-0.19904,Decreases Risk,7
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__ScheduleElapsedRatio,0.186166,Increases Risk,8
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__RemainingPlannedDays,-0.128487,Decreases Risk,9
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-04-01,0,0.0146,numeric__ProjectAgeDays,-0.107566,Decreases Risk,10
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__PlannedDurationDays,-0.710756,Decreases Risk,1
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,categorical__State_Uttar Pradesh,-0.556729,Decreases Risk,2
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,categorical__Agency_National Highways Authority of India [NHAI],-0.368523,Decreases Risk,3
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__RevisedCost,-0.33631,Decreases Risk,4
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__OriginalCost,-0.295812,Decreases Risk,5
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__RemainingPlannedDays,-0.255054,Decreases Risk,6
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__Expenditure,-0.230204,Decreases Risk,7
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__ProgressVelocity,-0.12147,Decreases Risk,8
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__ProjectAgeDays,-0.106226,Decreases Risk,9
+612142,"Singrauli Super Thermal Power Project, Stage-III [2x800 MW]",2026-05-01,0,0.0136,numeric__RobustCurrentGap,-0.097065,Decreases Risk,10
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__RevisedCost,-0.285346,Decreases Risk,1
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__CurrentExpenditureRatio,0.21432,Increases Risk,2
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__Physical Progress,0.192417,Increases Risk,3
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,categorical__Agency_National Highways Authority of India [NHAI],-0.174151,Decreases Risk,4
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__missingindicator_Prev_Expenditure,-0.17165,Decreases Risk,5
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__RobustCurrentExpenditurePct,0.167224,Increases Risk,6
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__Prev_RobustGap,-0.133761,Decreases Risk,7
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__PlannedDurationDays,0.125333,Increases Risk,8
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__RemainingPlannedDays,0.125318,Increases Risk,9
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-04-01,0,0.2021,numeric__RobustCurrentGap,-0.120402,Decreases Risk,10
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,categorical__Agency_National Highways Authority of India [NHAI],-0.378077,Decreases Risk,1
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__CurrentExpenditureRatio,0.218109,Increases Risk,2
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__RevisedCost,-0.206013,Decreases Risk,3
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__RemainingPlannedDays,0.17424,Increases Risk,4
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__Physical Progress,0.169486,Increases Risk,5
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__missingindicator_Prev_Expenditure,0.152621,Increases Risk,6
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__RobustCurrentExpenditurePct,0.138353,Increases Risk,7
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__RobustCurrentGap,-0.125401,Decreases Risk,8
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__ProgressVelocity,-0.092972,Decreases Risk,9
+612213,"Construction of 200 Bedded ESIC Hospital at Butibori, Nagpur, Maharashtra.",2026-05-01,0,0.304,numeric__CurrentGapVsPreviousGap,0.085736,Increases Risk,10
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__RobustCurrentGap,0.255516,Increases Risk,1
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,categorical__Agency_National Highways Authority of India [NHAI],-0.237875,Decreases Risk,2
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__CurrentExpenditureRatio,0.184264,Increases Risk,3
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__missingindicator_Prev_Expenditure,-0.179597,Decreases Risk,4
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__OriginalCost,0.171598,Increases Risk,5
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__Prev_RobustGap,-0.145053,Decreases Risk,6
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__ScheduleElapsedRatio,0.13424,Increases Risk,7
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__ProgressScheduleGap,-0.116507,Decreases Risk,8
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__RevisedCost,-0.111226,Decreases Risk,9
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-04-01,0,0.196,numeric__Physical Progress,0.075496,Increases Risk,10
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,categorical__Agency_National Highways Authority of India [NHAI],-0.409925,Decreases Risk,1
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__CurrentExpenditureRatio,0.300949,Increases Risk,2
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__ProgressVelocity,0.299805,Increases Risk,3
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__RobustCurrentGap,0.266658,Increases Risk,4
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__missingindicator_Prev_Expenditure,0.158239,Increases Risk,5
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__Prev_PhysicalProgress,0.145524,Increases Risk,6
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__PlannedDurationDays,-0.13005,Decreases Risk,7
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__ScheduleElapsedRatio,0.119556,Increases Risk,8
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__CurrentGapVsPreviousGap,0.115647,Increases Risk,9
+612745,"Construction of 200 bed ESI Hospital at Bommasandra, Karnataka",2026-05-01,0,0.5408,numeric__OriginalCost,0.105937,Increases Risk,10
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__CurrentExpenditureRatio,0.168873,Increases Risk,1
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__missingindicator_Prev_Expenditure,-0.168799,Decreases Risk,2
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__RobustCurrentExpenditurePct,0.146631,Increases Risk,3
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,categorical__Agency_National Highways Authority of India [NHAI],-0.130943,Decreases Risk,4
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__RemainingPlannedDays,-0.127591,Decreases Risk,5
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__OriginalCost,0.122706,Increases Risk,6
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__ScheduleElapsedRatio,-0.114631,Decreases Risk,7
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__Prev_RobustGap,-0.104002,Decreases Risk,8
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__RobustCurrentGap,-0.100706,Decreases Risk,9
+612790,Power System Upgradation Project,2026-04-01,0,0.1738,numeric__Physical Progress,0.088262,Increases Risk,10
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__CurrentGapVsPreviousGap,0.355531,Increases Risk,1
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,categorical__Agency_National Highways Authority of India [NHAI],-0.263948,Decreases Risk,2
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__ProgressVelocity,0.218987,Increases Risk,3
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__CurrentExpenditureRatio,0.182675,Increases Risk,4
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__PlannedDurationDays,-0.16399,Decreases Risk,5
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__ProjectAgeDays,-0.152004,Decreases Risk,6
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__missingindicator_Prev_Expenditure,0.146362,Increases Risk,7
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__ScheduleElapsedRatio,-0.145178,Decreases Risk,8
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__RobustCurrentExpenditurePct,0.130281,Increases Risk,9
+612790,Power System Upgradation Project,2026-05-01,0,0.2983,numeric__Physical Progress,0.128033,Increases Risk,10
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__Physical Progress,-0.314738,Decreases Risk,1
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,categorical__Agency_National Highways Authority of India [NHAI],-0.290195,Decreases Risk,2
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,categorical__State_Delhi,0.23988,Increases Risk,3
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__CurrentExpenditureRatio,-0.219528,Decreases Risk,4
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__RevisedCost,-0.172287,Decreases Risk,5
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__missingindicator_Prev_Expenditure,-0.162338,Decreases Risk,6
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__Prev_RobustGap,-0.153623,Decreases Risk,7
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__RemainingPlannedDays,0.138463,Increases Risk,8
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__RobustCurrentExpenditurePct,0.136643,Increases Risk,9
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, DirectorsResidence and External Development works at National Institute of Technology, DelhiCampus on Engineering, Procurement and Construction basis",2026-04-01,1,0.1328,numeric__PlannedDurationDays,0.091999,Increases Risk,10
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__Prev_ExpenditureRatio,-0.323711,Decreases Risk,1
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,categorical__Agency_National Highways Authority of India [NHAI],-0.289237,Decreases Risk,2
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__CurrentExpenditureRatio,-0.281563,Decreases Risk,3
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,categorical__State_Delhi,0.227994,Increases Risk,4
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__Physical Progress,-0.225323,Decreases Risk,5
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__RemainingPlannedDays,0.201011,Increases Risk,6
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__Prev_PhysicalProgress,0.162183,Increases Risk,7
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__RevisedCost,-0.123094,Decreases Risk,8
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__missingindicator_Prev_Expenditure,0.119422,Increases Risk,9
+612851,"Phase 1B - Construction of Academic Block, Hostel, Residential Tower, Directors Residence and External Development works at National Institute of Technology, Delhi Campus on Engineering, Procurement and Construction basis",2026-05-01,0,0.1075,numeric__CurrentGapVsPreviousGap,-0.119087,Decreases Risk,10
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__RobustCurrentGap,0.241351,Increases Risk,1
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,categorical__Agency_National Highways Authority of India [NHAI],-0.23041,Decreases Risk,2
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__CurrentExpenditureRatio,0.218708,Increases Risk,3
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__RobustCurrentExpenditurePct,0.18518,Increases Risk,4
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__PlannedDurationDays,0.140708,Increases Risk,5
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__missingindicator_Prev_Expenditure,-0.120225,Decreases Risk,6
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__ProgressScheduleGap,-0.119422,Decreases Risk,7
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__ElapsedDays,0.079796,Increases Risk,8
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__OriginalCost,0.07848,Increases Risk,9
+612853,Gurdaspur Jammu Pipeline,2026-04-01,0,0.3159,numeric__Prev_RobustGap,-0.077707,Decreases Risk,10
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__CurrentGapVsPreviousGap,0.536085,Increases Risk,1
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__ProgressVelocity,0.367062,Increases Risk,2
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,categorical__Agency_National Highways Authority of India [NHAI],-0.276868,Decreases Risk,3
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__Prev_RobustGap,-0.239078,Decreases Risk,4
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__CurrentExpenditureRatio,0.214294,Increases Risk,5
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__RobustCurrentExpenditurePct,0.154107,Increases Risk,6
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__Physical Progress,0.12491,Increases Risk,7
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__missingindicator_Prev_Expenditure,0.115351,Increases Risk,8
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__RemainingPlannedDays,-0.095867,Decreases Risk,9
+612853,Gurdaspur Jammu Pipeline,2026-05-01,0,0.4226,numeric__ProjectAgeDays,-0.095167,Decreases Risk,10
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,categorical__State_Gujarat,-0.26017,Decreases Risk,1
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__missingindicator_Prev_Expenditure,-0.228427,Decreases Risk,2
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,categorical__Agency_Power Grid Corporation of India Limited [POWERGRID],-0.188974,Decreases Risk,3
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,categorical__Agency_National Highways Authority of India [NHAI],-0.18468,Decreases Risk,4
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__Prev_RobustGap,-0.15076,Decreases Risk,5
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__CurrentExpenditureRatio,0.138167,Increases Risk,6
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__PlannedDurationDays,0.129936,Increases Risk,7
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__Expenditure,0.075725,Increases Risk,8
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__ProjectAgeDays,-0.074001,Decreases Risk,9
+612855,"Transmission System for Evacuation of Power from Potential Energy Renewable Zonein Khavda Area of Gujarat under Ph-IV [7GW] Part E2",2026-04-01,0,0.098,numeric__Physical Progress,-0.072044,Decreases Risk,10
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__ProgressVelocity,0.409793,Increases Risk,1
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__CurrentGapVsPreviousGap,0.385488,Increases Risk,2
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__PlannedDurationDays,0.283534,Increases Risk,3
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,categorical__Agency_National Highways Authority of India [NHAI],-0.227896,Decreases Risk,4
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__missingindicator_Prev_Expenditure,0.216022,Increases Risk,5
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__CurrentExpenditureRatio,0.179529,Increases Risk,6
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,categorical__Agency_Power Grid Corporation of India Limited [POWERGRID],-0.175712,Decreases Risk,7
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__ProjectAgeDays,-0.160778,Decreases Risk,8
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,categorical__State_Gujarat,-0.159674,Decreases Risk,9
+612855,Transmission System for Evacuation of Power from Potential Energy Renewable Zone in Khavda Area of Gujarat under Ph-IV [7GW] Part E2,2026-05-01,1,0.3798,numeric__Physical Progress,0.134438,Increases Risk,10
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__missingindicator_Prev_Expenditure,-0.209282,Decreases Risk,1
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__Prev_RobustGap,-0.162183,Decreases Risk,2
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,categorical__Agency_National Highways Authority of India [NHAI],-0.146058,Decreases Risk,3
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__CurrentExpenditureRatio,0.113035,Increases Risk,4
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__Physical Progress,0.108655,Increases Risk,5
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__RevisedCost,-0.107176,Decreases Risk,6
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__ScheduleElapsedRatio,-0.092674,Decreases Risk,7
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__RemainingPlannedDays,0.088439,Increases Risk,8
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__RobustCurrentGap,-0.088297,Decreases Risk,9
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh atDehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPCMode 1] Basis.",2026-04-01,0,0.161,numeric__RobustCurrentExpenditurePct,0.082488,Increases Risk,10
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,categorical__Agency_National Highways Authority of India [NHAI],-0.402388,Decreases Risk,1
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__missingindicator_Prev_Expenditure,0.187483,Increases Risk,2
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__Prev_RobustGap,-0.171466,Decreases Risk,3
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__Prev_ExpenditureRatio,-0.157807,Decreases Risk,4
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__Prev_PhysicalProgress,0.1547,Increases Risk,5
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__RobustCurrentGap,-0.104607,Decreases Risk,6
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__RemainingPlannedDays,0.104339,Increases Risk,7
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__Physical Progress,0.100187,Increases Risk,8
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__Prev_RobustExpenditurePct,-0.079022,Decreases Risk,9
+612894,"Construction of Permanent Campus of Central University of Himachal Pradesh at Dehra, District - Kangra, [H.P.] on Engineering. Procurement and Construction [EPC Mode 1] Basis.",2026-05-01,0,0.2203,numeric__Expenditure,0.077783,Increases Risk,10
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__CurrentExpenditureRatio,0.210502,Increases Risk,1
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__RobustCurrentExpenditurePct,0.179683,Increases Risk,2
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__missingindicator_Prev_Expenditure,-0.166105,Decreases Risk,3
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__Physical Progress,0.157031,Increases Risk,4
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,categorical__Agency_National Highways Authority of India [NHAI],-0.140753,Decreases Risk,5
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__Prev_RobustGap,-0.135509,Decreases Risk,6
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,categorical__State_Gujarat,-0.132961,Decreases Risk,7
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__OriginalCost,0.132205,Increases Risk,8
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__RemainingPlannedDays,0.099973,Increases Risk,9
+612916,"Construction of permanent campus of Central University of Gujarat at Villagekundhela, Dist. Vadodara, Gujarat.",2026-04-01,0,0.2678,numeric__PlannedDurationDays,0.093164,Increases Risk,10
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,categorical__Agency_National Highways Authority of India [NHAI],-0.387975,Decreases Risk,1
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__PlannedDurationDays,-0.305014,Decreases Risk,2
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__Prev_RobustGap,0.24464,Increases Risk,3
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__missingindicator_Prev_Expenditure,0.152421,Increases Risk,4
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,categorical__State_Gujarat,-0.128259,Decreases Risk,5
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__CurrentExpenditureRatio,0.127344,Increases Risk,6
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__RobustCurrentExpenditurePct,0.126173,Increases Risk,7
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__Prev_ExpenditureRatio,-0.124486,Decreases Risk,8
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__Physical Progress,0.122376,Increases Risk,9
+612916,"Construction of permanent campus of Central University of Gujarat at Village kundhela, Dist. Vadodara, Gujarat.",2026-05-01,0,0.2495,numeric__ScheduleElapsedRatio,-0.118166,Decreases Risk,10
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__PlannedDurationDays,-0.391989,Decreases Risk,1
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__ElapsedDays,-0.366406,Decreases Risk,2
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__HasPreviousRevisedDoc,-0.274174,Decreases Risk,3
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,categorical__Agency_National Highways Authority of India [NHAI],-0.18199,Decreases Risk,4
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__CurrentExpenditureRatio,0.171023,Increases Risk,5
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__missingindicator_Prev_Expenditure,-0.164381,Decreases Risk,6
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__RevisedCost,-0.161127,Decreases Risk,7
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__OriginalCost,0.14331,Increases Risk,8
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__RobustCurrentExpenditurePct,0.136698,Increases Risk,9
+613799,AMGAON OC RCE [1.0 MTY],2026-04-01,0,0.0614,numeric__Prev_RobustGap,-0.110246,Decreases Risk,10
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__PlannedDurationDays,-0.853988,Decreases Risk,1
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,categorical__Agency_National Highways Authority of India [NHAI],-0.427864,Decreases Risk,2
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__ElapsedDays,-0.370353,Decreases Risk,3
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__Prev_RobustGap,0.226665,Increases Risk,4
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__CurrentExpenditureRatio,0.19717,Increases Risk,5
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__HasPreviousRevisedDoc,-0.183057,Decreases Risk,6
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__missingindicator_Prev_Expenditure,0.152908,Increases Risk,7
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__RobustCurrentExpenditurePct,0.125743,Increases Risk,8
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__RevisedCost,-0.113089,Decreases Risk,9
+613799,AMGAON OC RCE [1.0 MTY],2026-05-01,0,0.0888,numeric__OriginalCost,0.113051,Increases Risk,10
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__ElapsedDays,-0.355043,Decreases Risk,1
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__PlannedDurationDays,-0.339704,Decreases Risk,2
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,categorical__Agency_National Highways Authority of India [NHAI],-0.198002,Decreases Risk,3
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__CurrentExpenditureRatio,0.193431,Increases Risk,4
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__OriginalCost,0.152303,Increases Risk,5
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__missingindicator_Prev_Expenditure,-0.150203,Decreases Risk,6
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__ProjectAgeDays,-0.144684,Decreases Risk,7
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__RobustCurrentGap,-0.141126,Decreases Risk,8
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__Prev_RobustGap,-0.10973,Decreases Risk,9
+613801,MAHAMAYA OCP [1.50 MTY],2026-04-01,0,0.0701,numeric__ProgressScheduleGap,-0.108756,Decreases Risk,10
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__PlannedDurationDays,-0.568527,Decreases Risk,1
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,categorical__Agency_National Highways Authority of India [NHAI],-0.444072,Decreases Risk,2
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__ElapsedDays,-0.308912,Decreases Risk,3
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__CurrentGapVsPreviousGap,0.212561,Increases Risk,4
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__CurrentExpenditureRatio,0.208523,Increases Risk,5
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__missingindicator_Prev_Expenditure,0.14124,Increases Risk,6
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__RobustCurrentGap,-0.137887,Decreases Risk,7
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__OriginalCost,0.123901,Increases Risk,8
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__ProgressScheduleGap,-0.100626,Decreases Risk,9
+613801,MAHAMAYA OCP [1.50 MTY],2026-05-01,0,0.1034,numeric__Prev_OriginalCost,0.06214,Increases Risk,10
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,categorical__State_Jharkhand,0.576003,Increases Risk,1
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__ScheduleElapsedRatio,-0.426445,Decreases Risk,2
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__ElapsedDays,-0.368808,Decreases Risk,3
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__Physical Progress,0.180737,Increases Risk,4
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__missingindicator_Prev_Expenditure,-0.177258,Decreases Risk,5
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,categorical__Agency_National Highways Authority of India [NHAI],-0.174992,Decreases Risk,6
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__RevisedCost,-0.173687,Decreases Risk,7
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__CurrentExpenditureRatio,0.171252,Increases Risk,8
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__RobustCurrentGap,-0.159825,Decreases Risk,9
+613808,"MURAIDIH UG PROJECT(Bharat Coking Coal Limited",2026-04-01,0,0.1454,numeric__RobustCurrentExpenditurePct,0.136418,Increases Risk,10
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,categorical__State_Jharkhand,0.448823,Increases Risk,1
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,categorical__Agency_National Highways Authority of India [NHAI],-0.440438,Decreases Risk,2
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__ElapsedDays,-0.349031,Decreases Risk,3
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__PlannedDurationDays,-0.267143,Decreases Risk,4
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__CurrentExpenditureRatio,0.221126,Increases Risk,5
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__CurrentGapVsPreviousGap,0.196508,Increases Risk,6
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__RobustCurrentGap,-0.170607,Decreases Risk,7
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__missingindicator_Prev_Expenditure,0.154736,Increases Risk,8
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__ScheduleElapsedRatio,-0.145306,Decreases Risk,9
+613808,MURAIDIH UG PROJECT (Bharat Coking Coal Limited ),2026-05-01,0,0.3235,numeric__Physical Progress,0.142096,Increases Risk,10
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__PlannedDurationDays,-0.396046,Decreases Risk,1
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__HasPreviousRevisedDoc,-0.282402,Decreases Risk,2
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,categorical__Agency_National Highways Authority of India [NHAI],-0.22248,Decreases Risk,3
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__OriginalCost,0.219081,Increases Risk,4
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__Physical Progress,0.199724,Increases Risk,5
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__CurrentExpenditureRatio,0.163394,Increases Risk,6
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__RobustCurrentExpenditurePct,0.155311,Increases Risk,7
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__ScheduleElapsedRatio,0.129287,Increases Risk,8
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__ProjectAgeDays,-0.121792,Decreases Risk,9
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-04-01,0,0.168,numeric__missingindicator_Prev_Expenditure,-0.120299,Decreases Risk,10
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__PlannedDurationDays,-0.595412,Decreases Risk,1
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,categorical__Agency_National Highways Authority of India [NHAI],-0.355621,Decreases Risk,2
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__HasPreviousRevisedDoc,-0.214659,Decreases Risk,3
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__Physical Progress,0.21305,Increases Risk,4
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__OriginalCost,0.183873,Increases Risk,5
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__Prev_PhysicalProgress,0.13931,Increases Risk,6
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__RobustCurrentExpenditurePct,0.135729,Increases Risk,7
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__CurrentExpenditureRatio,0.132354,Increases Risk,8
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__missingindicator_Prev_Expenditure,0.110984,Increases Risk,9
+615184,SAONER UG MINE -1 EXPANSION 1.,2026-05-01,1,0.1782,numeric__ProjectAgeDays,-0.086156,Decreases Risk,10
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__HasPreviousRevisedDoc,-0.31085,Decreases Risk,1
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__CurrentExpenditureRatio,0.237152,Increases Risk,2
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,categorical__State_Madhya Pradesh,-0.215155,Decreases Risk,3
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__PlannedDurationDays,-0.195113,Decreases Risk,4
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__Physical Progress,0.176524,Increases Risk,5
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__Prev_RobustGap,-0.160401,Decreases Risk,6
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__OriginalCost,0.155308,Increases Risk,7
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__RobustCurrentGap,-0.152697,Decreases Risk,8
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,categorical__Agency_National Highways Authority of India [NHAI],-0.144658,Decreases Risk,9
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-04-01,0,0.1048,numeric__missingindicator_Prev_Expenditure,-0.135827,Decreases Risk,10
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__PlannedDurationDays,-0.543328,Decreases Risk,1
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__Prev_RobustGap,0.480176,Increases Risk,2
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__CurrentExpenditureRatio,0.310984,Increases Risk,3
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,categorical__Agency_National Highways Authority of India [NHAI],-0.304214,Decreases Risk,4
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__HasPreviousRevisedDoc,-0.260911,Decreases Risk,5
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,categorical__State_Madhya Pradesh,-0.201309,Decreases Risk,6
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__CurrentGapVsPreviousGap,0.179607,Increases Risk,7
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__Physical Progress,0.160614,Increases Risk,8
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__missingindicator_Prev_Expenditure,0.131958,Increases Risk,9
+615185,AMALGAMATED DHANKASA & JAMUNIA,2026-05-01,1,0.2806,numeric__OriginalCost,0.126967,Increases Risk,10
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__HasPreviousRevisedDoc,-0.285526,Decreases Risk,1
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__PlannedDurationDays,-0.26447,Decreases Risk,2
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__RobustCurrentGap,0.254432,Increases Risk,3
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,categorical__Agency_National Highways Authority of India [NHAI],-0.245579,Decreases Risk,4
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__OriginalCost,0.225461,Increases Risk,5
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__Physical Progress,0.136479,Increases Risk,6
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__missingindicator_Prev_Expenditure,-0.133866,Decreases Risk,7
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__Prev_RobustGap,-0.093061,Decreases Risk,8
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__ScheduleElapsedRatio,0.08955,Increases Risk,9
+615192,GOKUL EXTENSION OC MINE,2026-04-01,0,0.1358,numeric__ProjectAgeDays,-0.079012,Decreases Risk,10
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__PlannedDurationDays,-0.48335,Decreases Risk,1
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,categorical__Agency_National Highways Authority of India [NHAI],-0.444634,Decreases Risk,2
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__HasPreviousRevisedDoc,-0.303836,Decreases Risk,3
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__CurrentGapVsPreviousGap,0.254245,Increases Risk,4
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__RobustCurrentGap,0.182821,Increases Risk,5
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__OriginalCost,0.166163,Increases Risk,6
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__ProgressScheduleGap,0.145699,Increases Risk,7
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__Prev_RobustGap,-0.137868,Decreases Risk,8
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__missingindicator_Prev_Expenditure,0.127495,Increases Risk,9
+615192,GOKUL EXTENSION OC MINE,2026-05-01,1,0.2485,numeric__Physical Progress,0.122224,Increases Risk,10
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__PlannedDurationDays,-0.506071,Decreases Risk,1
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,categorical__Agency_National Highways Authority of India [NHAI],-0.183402,Decreases Risk,2
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__missingindicator_Prev_Expenditure,-0.167615,Decreases Risk,3
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__Prev_RobustGap,-0.121387,Decreases Risk,4
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__OriginalCost,-0.113413,Decreases Risk,5
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__RobustCurrentGap,-0.11121,Decreases Risk,6
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__ProgressScheduleGap,-0.080616,Decreases Risk,7
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,categorical__State_Chhattisgarh,-0.064167,Decreases Risk,8
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,numeric__CurrentExpenditureRatio,-0.063656,Decreases Risk,9
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-04-01,1,0.0549,categorical__State_Jharkhand,-0.063356,Decreases Risk,10
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__PlannedDurationDays,-0.787564,Decreases Risk,1
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,categorical__Agency_National Highways Authority of India [NHAI],-0.47069,Decreases Risk,2
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__CurrentGapVsPreviousGap,-0.325376,Decreases Risk,3
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__missingindicator_Prev_Expenditure,0.145242,Increases Risk,4
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__OriginalCost,-0.116412,Decreases Risk,5
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__Prev_OriginalCost,-0.115433,Decreases Risk,6
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,categorical__State_Chhattisgarh,-0.064167,Decreases Risk,7
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__RemainingPlannedDays,-0.061403,Decreases Risk,8
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__ProgressScheduleGap,-0.059797,Decreases Risk,9
+615202,Capacity expansion of Deposit-14 and 14 NMZ at Kirandul,2026-05-01,0,0.0476,numeric__ProgressVelocity,0.059159,Increases Risk,10
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__PlannedDurationDays,-0.404009,Decreases Risk,1
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,categorical__Agency_National Highways Authority of India [NHAI],-0.264448,Decreases Risk,2
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__HasPreviousRevisedDoc,-0.25253,Decreases Risk,3
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__RobustCurrentGap,0.247467,Increases Risk,4
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__Expenditure,0.205018,Increases Risk,5
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__OriginalCost,0.152956,Increases Risk,6
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__CurrentExpenditureRatio,-0.134766,Decreases Risk,7
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__ScheduleElapsedRatio,0.126711,Increases Risk,8
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__missingindicator_Prev_Expenditure,-0.116423,Decreases Risk,9
+615331,GADEGAON OC 3 MTY,2026-04-01,1,0.0971,numeric__RobustCurrentExpenditurePct,-0.090834,Decreases Risk,10

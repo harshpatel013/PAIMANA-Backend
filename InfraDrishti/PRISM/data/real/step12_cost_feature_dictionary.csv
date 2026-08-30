@@ -1,0 +1,31 @@
+Feature,FeatureType,DataType,TemporalRole,Description,MissingCount,MissingPercent,UniqueValues,LeakageStatus
+OriginalCost,Numerical,float64,Current/project feature,Original approved project cost.,0,0.0,1915,SAFE
+RevisedCost,Numerical,float64,Current/project feature,Current/revised project cost.,0,0.0,1936,SAFE
+Expenditure,Numerical,float64,Current/project feature,Cumulative expenditure reported for the current observation month.,0,0.0,2716,SAFE
+CurrentExpenditureRatio,Numerical,float64,Current-month feature,Feature generated during the project-level temporal feature-engineering process.,0,0.0,2755,SAFE
+RobustCurrentExpenditurePct,Numerical,float64,Current/project feature,Feature generated during the project-level temporal feature-engineering process.,0,0.0,2644,SAFE
+RobustCurrentGap,Numerical,float64,Current/project feature,Feature generated during the project-level temporal feature-engineering process.,0,0.0,3129,SAFE
+Physical Progress,Numerical,float64,Current/project feature,Current physical progress percentage of the project.,0,0.0,1685,SAFE
+Prev_Expenditure,Numerical,float64,Previous-month feature,Previous available monthly expenditure for the same project.,1965,53.05,1459,SAFE
+Prev_OriginalCost,Numerical,float64,Previous-month feature,Previous available monthly original project cost.,1965,53.05,1707,SAFE
+Prev_RevisedCost,Numerical,float64,Previous-month feature,Previous available monthly revised project cost.,1965,53.05,1719,SAFE
+Prev_ExpenditureRatio,Numerical,float64,Previous-month feature,Previous-month expenditure as a percentage of previous revised cost.,1965,53.05,1472,SAFE
+Prev_CostGrowth,Numerical,float64,Previous-month feature,Feature generated during the project-level temporal feature-engineering process.,0,0.0,10,SAFE
+Prev_PhysicalProgress,Numerical,float64,Previous-month feature,Previous available monthly physical progress percentage.,1965,53.05,1081,SAFE
+Prev_ProgressRemaining,Numerical,float64,Previous-month feature,Previous-month percentage of physical progress remaining to completion.,1965,53.05,1081,SAFE
+ProgressVelocity,Numerical,float64,Derived temporal feature,Change in physical progress between the previous available observation and the current observation.,1965,53.05,546,SAFE
+ProjectAgeDays,Numerical,float64,Schedule feature,Elapsed number of days from project start to the current report month.,31,0.84,365,SAFE
+ElapsedDays,Numerical,float64,Schedule feature,Elapsed project duration in days relative to the current observation.,11,0.3,370,SAFE
+PlannedDurationDays,Numerical,float64,Schedule feature,Planned project duration in days based on project start and target completion dates.,11,0.3,348,SAFE
+RemainingPlannedDays,Numerical,float64,Schedule feature,Planned number of days remaining until the target completion date.,11,0.3,314,SAFE
+ScheduleElapsedRatio,Numerical,float64,Schedule feature,Ratio representing the portion of the planned project duration that has elapsed.,15,0.4,1895,SAFE
+ProgressScheduleGap,Numerical,float64,Schedule feature,Difference between physical progress and schedule elapsed ratio.,15,0.4,2400,SAFE
+Prev_RobustExpenditurePct,Numerical,float64,Previous-month feature,Previous-month expenditure percentage calculated using the robust expenditure treatment.,1965,53.05,1411,SAFE
+Prev_RobustGap,Numerical,float64,Previous-month feature,Previous robust cost-performance gap between physical progress and expenditure.,1965,53.05,1644,SAFE
+CurrentGapVsPreviousGap,Numerical,float64,Current-month feature,Difference between the current robust cost-performance gap and the previous robust gap.,1965,53.05,1248,SAFE
+HasPreviousRevisedCost,Numerical,int64,Current/project feature,Indicator showing whether a previous revised-cost observation is available.,0,0.0,2,SAFE
+HasPreviousRevisedDoc,Numerical,int64,Current/project feature,Indicator showing whether a previous revised completion-date observation is available.,0,0.0,2,SAFE
+InvalidPlannedDuration,Numerical,int64,Current/project feature,Indicator identifying invalid or non-positive planned project duration.,0,0.0,2,SAFE
+DateInconsistencyFlag,Numerical,int64,Current/project feature,Feature generated during the project-level temporal feature-engineering process.,0,0.0,2,SAFE
+State,Categorical,object,Current/project feature,Project state / geographical state information.,0,0.0,105,SAFE
+Agency,Categorical,object,Current/project feature,Implementing or responsible project agency.,0,0.0,187,SAFE
